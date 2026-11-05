@@ -1345,10 +1345,10 @@
 		)
 	)
 	(junction
-		(at 226.06 60.96)
+		(at 242.57 142.24)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "05e4410c-5e2c-45bd-bd4c-f525b2e0b3b6")
+		(uuid "0581ed23-382f-4e00-a827-ac4ab21ec5e6")
 	)
 	(junction
 		(at 248.92 71.12)
@@ -1357,16 +1357,16 @@
 		(uuid "0a0a8179-018b-4109-a4f3-f19f9dfcf414")
 	)
 	(junction
+		(at 226.06 81.28)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "12b6b21a-0714-43cc-9aad-52395f7251b6")
+	)
+	(junction
 		(at 215.9 111.76)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1b1cd3b1-3c28-44a2-94b1-9fce7bdec295")
-	)
-	(junction
-		(at 259.08 142.24)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1db3a055-4555-4552-b6ea-0f8be0ef3f75")
 	)
 	(junction
 		(at 199.39 71.12)
@@ -1375,22 +1375,10 @@
 		(uuid "1fb3b79e-e1ed-4398-90ee-aedf5b59203a")
 	)
 	(junction
-		(at 209.55 101.6)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "26f5ed6b-50aa-4891-a201-11308694c357")
-	)
-	(junction
-		(at 209.55 142.24)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2d1559e7-f0b3-44cd-a174-947ff42149f8")
-	)
-	(junction
 		(at 242.57 60.96)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "3574326a-685c-46d3-acae-9f065ab5978d")
+		(uuid "200f310f-4b03-444f-b303-1b3e832cf36c")
 	)
 	(junction
 		(at 215.9 50.8)
@@ -1399,16 +1387,16 @@
 		(uuid "378729cb-78a7-4a26-b101-951a66786ae3")
 	)
 	(junction
-		(at 242.57 121.92)
+		(at 259.08 142.24)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "37c256c1-a8ec-47d7-8a28-b3f068f9d2c8")
+		(uuid "3f74c141-16e8-4a6c-8b7c-1f086801c5e2")
 	)
 	(junction
-		(at 259.08 81.28)
+		(at 275.59 60.96)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "3a74d374-c42c-4e0a-97d3-73679fdca1d5")
+		(uuid "446db796-3118-4ee6-9bfb-059bfb8073b4")
 	)
 	(junction
 		(at 248.92 50.8)
@@ -1423,6 +1411,18 @@
 		(uuid "4be197a7-35ad-450f-ad37-f4660aac98e0")
 	)
 	(junction
+		(at 242.57 81.28)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4c688f3c-e048-4300-bfd7-bfcb44494c4c")
+	)
+	(junction
+		(at 226.06 121.92)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4d653a32-d493-4f17-ade3-7de1440e0fdc")
+	)
+	(junction
 		(at 199.39 111.76)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1433,6 +1433,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "58814f26-1fc9-4887-a251-0e50acc9ee65")
+	)
+	(junction
+		(at 275.59 81.28)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5d5b48b5-41ef-4da4-adcb-1bfc86e52858")
 	)
 	(junction
 		(at 232.41 71.12)
@@ -1447,16 +1453,16 @@
 		(uuid "67bfb882-25ce-4f9e-bf6f-12d1de80b81e")
 	)
 	(junction
-		(at 275.59 60.96)
+		(at 242.57 101.6)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "693bbed8-5600-4576-9b51-d5a609ecfc42")
+		(uuid "7142c1da-d655-41b8-8464-31bd9ec44ec5")
 	)
 	(junction
-		(at 209.55 81.28)
+		(at 226.06 142.24)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "7decb82a-7953-4ea3-9374-4e86b9d4e355")
+		(uuid "7c85ad28-e50d-449e-9316-ecd6ebeda636")
 	)
 	(junction
 		(at 199.39 132.08)
@@ -1465,34 +1471,16 @@
 		(uuid "7f49e97a-808f-4a71-8361-b1b1b5c566f3")
 	)
 	(junction
-		(at 259.08 60.96)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "86bbc18d-dc09-4c15-97ac-306c4d365cf1")
-	)
-	(junction
-		(at 226.06 101.6)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "872e368e-4164-4f62-8865-eacb32ee4f0b")
-	)
-	(junction
 		(at 232.41 132.08)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "89add84a-1e88-4891-a6c8-ba4fa0843e52")
 	)
 	(junction
-		(at 242.57 81.28)
+		(at 259.08 121.92)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "89c26357-2efb-4034-8047-3d3dfb402c8b")
-	)
-	(junction
-		(at 259.08 101.6)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8c8591ba-8a8e-4a6d-b57e-ff8c864fd2d0")
+		(uuid "92c10e87-06c1-43ae-a804-10762bcc3c92")
 	)
 	(junction
 		(at 199.39 91.44)
@@ -1501,10 +1489,22 @@
 		(uuid "95abbb2b-ee56-4851-8a2d-3b9a4d63d98a")
 	)
 	(junction
-		(at 259.08 121.92)
+		(at 209.55 81.28)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "971fe3e6-a642-400a-a018-39d028755d83")
+		(uuid "9609add9-c5c1-45cf-8118-474c0ea3c0b4")
+	)
+	(junction
+		(at 209.55 142.24)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "97112023-8d74-467a-97cd-dcd31da46ef3")
+	)
+	(junction
+		(at 259.08 81.28)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a4fcb4a1-15ef-4aed-aa17-cf8930385363")
 	)
 	(junction
 		(at 215.9 152.4)
@@ -1513,16 +1513,28 @@
 		(uuid "ac5d3a75-c34b-4fe6-a07a-b4c940064e43")
 	)
 	(junction
+		(at 226.06 101.6)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ae1909e8-5b4d-4697-b4d4-848e8c477317")
+	)
+	(junction
 		(at 215.9 132.08)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b0367049-92d1-4a97-b645-2dadb0f9a2bb")
 	)
 	(junction
-		(at 275.59 81.28)
+		(at 209.55 101.6)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "b94dc008-edad-4a26-b077-064a0df6fc89")
+		(uuid "b446caf4-78c4-41b1-9300-3daf24cc6607")
+	)
+	(junction
+		(at 259.08 60.96)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bdf2f128-6efa-4ee4-a32d-2b6abef058d6")
 	)
 	(junction
 		(at 232.41 152.4)
@@ -1531,16 +1543,10 @@
 		(uuid "c0541178-4f1f-402c-9edc-1d2f6bd79291")
 	)
 	(junction
-		(at 209.55 121.92)
+		(at 259.08 101.6)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "c0b317d1-30ea-4702-abb0-1ba6693e0e38")
-	)
-	(junction
-		(at 242.57 101.6)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c265d9d9-63bc-4669-9673-b585396c0fb0")
+		(uuid "c2aa4619-ccc7-448d-a8ca-244486196599")
 	)
 	(junction
 		(at 232.41 50.8)
@@ -1555,12 +1561,6 @@
 		(uuid "cec1a7d8-cab1-49d7-bd04-0598c03697b2")
 	)
 	(junction
-		(at 226.06 121.92)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d795ef2f-8af0-4d20-b7b9-3b744c38bd1e")
-	)
-	(junction
 		(at 209.55 60.96)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1573,28 +1573,28 @@
 		(uuid "df936d09-8469-4ce9-8c09-019ccd7ba398")
 	)
 	(junction
-		(at 226.06 142.24)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e11813d5-5c2a-4e13-8aaa-53abe4a31f84")
-	)
-	(junction
 		(at 232.41 111.76)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f228cba3-618c-450d-904d-a49550ffbf1c")
 	)
 	(junction
-		(at 242.57 142.24)
+		(at 209.55 121.92)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "f4bb4503-dcae-426f-9af1-5b3c09cc45f6")
+		(uuid "f4c376dd-f453-438b-9bb1-d696d318698b")
 	)
 	(junction
-		(at 226.06 81.28)
+		(at 226.06 60.96)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "f75a5fec-350f-49a0-9672-8f2bb8d6f644")
+		(uuid "f73407f8-d8d1-404d-8484-fafbb095d1db")
+	)
+	(junction
+		(at 242.57 121.92)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fad7c9ab-b18a-4068-a538-98437e77e976")
 	)
 	(junction
 		(at 215.9 71.12)
@@ -1614,17 +1614,27 @@
 	)
 	(wire
 		(pts
-			(xy 209.55 101.6) (xy 209.55 121.92)
+			(xy 226.06 101.6) (xy 226.06 121.92)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "07e564e6-7fae-40d4-a1cd-6387b6f4c2ec")
+		(uuid "04ca06cf-ad3a-4c15-bce1-f76ae457f940")
 	)
 	(wire
 		(pts
-			(xy 209.55 121.92) (xy 209.55 142.24)
+			(xy 45.72 73.66) (xy 52.07 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0817665b-5a6b-456a-9308-5032f4c80440")
+	)
+	(wire
+		(pts
+			(xy 209.55 60.96) (xy 209.55 81.28)
 		)
 		(stroke
 			(width 0)
@@ -1634,13 +1644,43 @@
 	)
 	(wire
 		(pts
-			(xy 259.08 142.24) (xy 259.08 162.56)
+			(xy 259.08 101.6) (xy 259.08 121.92)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "182b8cca-95ff-4c32-8c6a-64876138c653")
+		(uuid "0b30db67-c628-4ade-911c-7fd023a3b586")
+	)
+	(wire
+		(pts
+			(xy 226.06 60.96) (xy 226.06 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0bb0b129-cb08-4203-af35-81169ffd107a")
+	)
+	(wire
+		(pts
+			(xy 242.57 60.96) (xy 242.57 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "19a6183b-aaa7-4a0f-af7b-83bbcfbdada4")
+	)
+	(wire
+		(pts
+			(xy 242.57 101.6) (xy 242.57 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1ab94c2b-6caf-4596-ab61-65b12a5b8a20")
 	)
 	(wire
 		(pts
@@ -1674,23 +1714,13 @@
 	)
 	(wire
 		(pts
-			(xy 242.57 101.6) (xy 242.57 121.92)
+			(xy 275.59 81.28) (xy 275.59 101.6)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "25548288-eba4-4407-b975-521e98c5af3f")
-	)
-	(wire
-		(pts
-			(xy 226.06 81.28) (xy 226.06 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "25d7e87f-ddbc-45dc-9298-42b97ded153e")
+		(uuid "33bea9ba-16bb-46c9-af24-a473fc5c7163")
 	)
 	(wire
 		(pts
@@ -1704,23 +1734,23 @@
 	)
 	(wire
 		(pts
-			(xy 226.06 101.6) (xy 226.06 121.92)
+			(xy 242.57 81.28) (xy 242.57 101.6)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "3a9be746-f724-4e79-9d2e-0ceeb02c14ce")
+		(uuid "3a9af221-49ba-448f-9797-6ed15f4e75ad")
 	)
 	(wire
 		(pts
-			(xy 242.57 60.96) (xy 242.57 81.28)
+			(xy 242.57 142.24) (xy 242.57 162.56)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "3b701989-335c-4002-ae08-c81be2b62eff")
+		(uuid "3de14d32-0458-41e3-84ad-385556634943")
 	)
 	(wire
 		(pts
@@ -1734,7 +1764,17 @@
 	)
 	(wire
 		(pts
-			(xy 226.06 121.92) (xy 226.06 142.24)
+			(xy 45.72 71.12) (xy 52.07 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3fd13193-6259-496f-98db-f7bdb1bf4856")
+	)
+	(wire
+		(pts
+			(xy 226.06 41.91) (xy 226.06 60.96)
 		)
 		(stroke
 			(width 0)
@@ -1754,13 +1794,13 @@
 	)
 	(wire
 		(pts
-			(xy 259.08 41.91) (xy 259.08 60.96)
+			(xy 259.08 121.92) (xy 259.08 142.24)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "45466edd-5ad5-41c1-b4c8-8fbf329d7f66")
+		(uuid "46779790-bbaf-4884-ba59-acc19ba8b5d2")
 	)
 	(wire
 		(pts
@@ -1774,6 +1814,26 @@
 	)
 	(wire
 		(pts
+			(xy 45.72 68.58) (xy 52.07 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "48680c15-a547-4ae6-ab47-332e70f53185")
+	)
+	(wire
+		(pts
+			(xy 259.08 81.28) (xy 259.08 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4c2ee37d-cfdd-43a7-8b02-b0f74597f1bf")
+	)
+	(wire
+		(pts
 			(xy 215.9 132.08) (xy 232.41 132.08)
 		)
 		(stroke
@@ -1784,13 +1844,43 @@
 	)
 	(wire
 		(pts
-			(xy 259.08 60.96) (xy 259.08 81.28)
+			(xy 72.39 43.18) (xy 80.01 43.18)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "57eaf79c-7cd2-4fe9-bc45-cf17130fa2b4")
+		(uuid "591bc726-a415-47a7-bce7-883bc7ac7df6")
+	)
+	(wire
+		(pts
+			(xy 209.55 121.92) (xy 209.55 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5a0fb175-ab20-4ccc-9ba1-b5d3eea99df5")
+	)
+	(wire
+		(pts
+			(xy 45.72 63.5) (xy 52.07 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5bcebf1a-391c-49d2-825b-f1829d87cdd1")
+	)
+	(wire
+		(pts
+			(xy 226.06 81.28) (xy 226.06 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5c246307-c872-4a28-8b22-7bf46e15289b")
 	)
 	(wire
 		(pts
@@ -1801,16 +1891,6 @@
 			(type default)
 		)
 		(uuid "5c773fe6-1739-4248-827c-42d0b317614b")
-	)
-	(wire
-		(pts
-			(xy 226.06 142.24) (xy 226.06 162.56)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5d07c493-2420-4212-856e-0add433b3c24")
 	)
 	(wire
 		(pts
@@ -1844,13 +1924,33 @@
 	)
 	(wire
 		(pts
-			(xy 242.57 142.24) (xy 242.57 162.56)
+			(xy 45.72 60.96) (xy 52.07 60.96)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "6f567caf-5a76-4565-8f32-067a1528b75e")
+		(uuid "65ae1fb3-b37d-4a0e-83cd-a901b133612c")
+	)
+	(wire
+		(pts
+			(xy 209.55 81.28) (xy 209.55 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6afdff57-8853-4919-b73b-32f4b8559ef7")
+	)
+	(wire
+		(pts
+			(xy 209.55 101.6) (xy 209.55 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6c72a037-a615-4476-b815-fcd800c0930c")
 	)
 	(wire
 		(pts
@@ -1884,27 +1984,7 @@
 	)
 	(wire
 		(pts
-			(xy 209.55 81.28) (xy 209.55 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7e074973-7a41-4044-893d-df432304ca7e")
-	)
-	(wire
-		(pts
-			(xy 209.55 60.96) (xy 209.55 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "842e773b-7c1a-4ebb-a751-94894c59def8")
-	)
-	(wire
-		(pts
-			(xy 275.59 81.28) (xy 275.59 101.6)
+			(xy 275.59 41.91) (xy 275.59 60.96)
 		)
 		(stroke
 			(width 0)
@@ -1914,33 +1994,13 @@
 	)
 	(wire
 		(pts
-			(xy 259.08 121.92) (xy 259.08 142.24)
+			(xy 259.08 41.91) (xy 259.08 60.96)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "86315e54-8cae-4251-a490-6f42cb96fb66")
-	)
-	(wire
-		(pts
-			(xy 209.55 142.24) (xy 209.55 162.56)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "887ac1bf-44d9-4701-a2fe-f71368f84de4")
-	)
-	(wire
-		(pts
-			(xy 226.06 41.91) (xy 226.06 60.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "88ce61d5-118f-4b4d-b6ec-28ea52a0bb39")
 	)
 	(wire
 		(pts
@@ -1954,16 +2014,6 @@
 	)
 	(wire
 		(pts
-			(xy 242.57 41.91) (xy 242.57 60.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8e4f5629-83a1-4ec6-9e42-9bbed60c2dbd")
-	)
-	(wire
-		(pts
 			(xy 248.92 91.44) (xy 265.43 91.44)
 		)
 		(stroke
@@ -1974,13 +2024,23 @@
 	)
 	(wire
 		(pts
-			(xy 275.59 41.91) (xy 275.59 60.96)
+			(xy 259.08 60.96) (xy 259.08 81.28)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "9bd6a300-061b-4ac7-8589-f1a57b45a1a0")
+		(uuid "9b6e6a20-adde-47b0-9a87-b815ffc97494")
+	)
+	(wire
+		(pts
+			(xy 226.06 121.92) (xy 226.06 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9d4f3cab-5576-4b4e-a545-2be3e798e12c")
 	)
 	(wire
 		(pts
@@ -2014,6 +2074,26 @@
 	)
 	(wire
 		(pts
+			(xy 259.08 142.24) (xy 259.08 162.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a614bf72-0e97-49da-b90a-5b114fcfe3ea")
+	)
+	(wire
+		(pts
+			(xy 209.55 142.24) (xy 209.55 162.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ae29eef4-05c6-42f3-8ed6-2b3757793ff3")
+	)
+	(wire
+		(pts
 			(xy 196.85 152.4) (xy 199.39 152.4)
 		)
 		(stroke
@@ -2024,17 +2104,27 @@
 	)
 	(wire
 		(pts
-			(xy 259.08 101.6) (xy 259.08 121.92)
+			(xy 45.72 66.04) (xy 52.07 66.04)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "bd0b86ed-aa57-4e94-abd4-a9fce06d6600")
+		(uuid "b0ac040c-aea1-4eb8-80d7-6dad2854591b")
 	)
 	(wire
 		(pts
-			(xy 242.57 81.28) (xy 242.57 101.6)
+			(xy 226.06 142.24) (xy 226.06 162.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b808b37f-06b0-4090-b55b-a384e6de6357")
+	)
+	(wire
+		(pts
+			(xy 242.57 41.91) (xy 242.57 60.96)
 		)
 		(stroke
 			(width 0)
@@ -2054,6 +2144,16 @@
 	)
 	(wire
 		(pts
+			(xy 72.39 45.72) (xy 80.01 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d9445a98-947f-40e6-80c1-d8e15a0d8dd4")
+	)
+	(wire
+		(pts
 			(xy 232.41 71.12) (xy 248.92 71.12)
 		)
 		(stroke
@@ -2061,16 +2161,6 @@
 			(type default)
 		)
 		(uuid "dac84dd8-5978-442c-a049-1f8d0f29204a")
-	)
-	(wire
-		(pts
-			(xy 242.57 121.92) (xy 242.57 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "defae14b-a8f1-4799-b8cd-1c68df78d972")
 	)
 	(wire
 		(pts
@@ -2084,23 +2174,33 @@
 	)
 	(wire
 		(pts
-			(xy 226.06 60.96) (xy 226.06 81.28)
+			(xy 45.72 58.42) (xy 52.07 58.42)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e75d71b0-d8d1-446a-84da-2b6547729205")
+		(uuid "ebcd8541-fd47-4bc1-b20a-27ba51772022")
 	)
 	(wire
 		(pts
-			(xy 275.59 60.96) (xy 275.59 81.28)
+			(xy 242.57 121.92) (xy 242.57 142.24)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "ebe1e53f-c8ba-4f7f-afe2-0ec71588ffa2")
+		(uuid "eda9655d-3c66-4430-bde3-a63d94bc1107")
+	)
+	(wire
+		(pts
+			(xy 72.39 48.26) (xy 80.01 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f1887d94-d1b7-4df5-beff-a2bf783b90a5")
 	)
 	(wire
 		(pts
@@ -2134,13 +2234,23 @@
 	)
 	(wire
 		(pts
-			(xy 259.08 81.28) (xy 259.08 101.6)
+			(xy 275.59 60.96) (xy 275.59 81.28)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f47fdfab-d3b7-4c05-900d-1c866f62048d")
+		(uuid "f808e780-2771-4174-9a19-28639479ec6f")
+	)
+	(wire
+		(pts
+			(xy 45.72 55.88) (xy 52.07 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fc641179-57b1-4e57-8597-6c192458e1e8")
 	)
 	(wire
 		(pts
@@ -2151,6 +2261,30 @@
 			(type default)
 		)
 		(uuid "fda18182-6b58-41b9-bff7-3ef8626726ce")
+	)
+	(global_label "ROW_3"
+		(shape output)
+		(at 45.72 60.96 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "0b861d9c-d0ab-4107-ac70-7026873d26bb")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 36.5058 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
 	)
 	(global_label "ROW_4"
 		(shape input)
@@ -2176,6 +2310,30 @@
 			)
 		)
 	)
+	(global_label "COLUMN_1"
+		(shape output)
+		(at 45.72 71.12 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "1b01f2d5-50ad-4b30-b65e-1c7da3b905e2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 32.8167 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "COLUMN_5"
 		(shape input)
 		(at 275.59 41.91 90)
@@ -2189,6 +2347,126 @@
 		(uuid "4608e090-ed43-4665-ad49-a56cc2090c0c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 275.59 29.0067 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "ROW_5"
+		(shape output)
+		(at 45.72 66.04 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "5b31fcca-3ff1-4365-9808-b383e9a7a9f5")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 36.5058 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "COLUMN_5"
+		(shape output)
+		(at 80.01 48.26 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "64b7a589-1f00-48da-a45d-0065b095b1d3")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 92.9133 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "ROW_2"
+		(shape output)
+		(at 45.72 58.42 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "660a4b5c-c8c4-4315-a443-d5211c96c1aa")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 36.5058 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "COLUMN_4"
+		(shape output)
+		(at 80.01 45.72 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6b7cf7a3-6252-404e-abe6-3a5ae58c639b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 92.9133 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "COLUMN_3"
+		(shape output)
+		(at 80.01 43.18 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "76f7af68-833f-42da-b7bd-8e2fa6f58863")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 92.9133 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2296,6 +2574,30 @@
 			)
 		)
 	)
+	(global_label "COLUMN_2"
+		(shape output)
+		(at 45.72 73.66 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "9c13d69a-694a-4993-831b-9278e0720e89")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 32.8167 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "COLUMN_4"
 		(shape input)
 		(at 259.08 41.91 90)
@@ -2368,6 +2670,30 @@
 			)
 		)
 	)
+	(global_label "ROW_6"
+		(shape output)
+		(at 45.72 68.58 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "c1b00c38-688d-4c2d-84bf-3139cdcb9417")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 36.5058 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "ROW_3"
 		(shape input)
 		(at 194.31 91.44 180)
@@ -2381,6 +2707,30 @@
 		(uuid "c275ec76-c35e-4f61-8107-41fd4e04c756")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 185.0958 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "ROW_1"
+		(shape output)
+		(at 45.72 55.88 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "dc94c6ae-be49-4f53-844d-de63c98ddd0b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 36.5058 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2416,6 +2766,155 @@
 			)
 		)
 	)
+	(global_label "ROW_4"
+		(shape output)
+		(at 45.72 63.5 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ed9bd8b4-26d6-442f-911a-7b460e8ee605")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 36.5058 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_45deg")
+		(at 273.05 99.06 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0a2f316c-c1d1-4ab6-80b6-0a8df85fc78f")
+		(property "Reference" "D15"
+			(at 273.05 91.44 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1N4148WS-7-F"
+			(at 273.05 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-323"
+			(at 273.05 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/1N4148WS_BAV16WS.pdf"
+			(at 273.05 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Diode, rotated by 45°"
+			(at 273.05 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 273.05 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 273.05 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey" "1N4148WS-FDICT-ND"
+			(at 273.05 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Diodes Incorporated"
+			(at 273.05 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "cfde289d-3eab-42bc-ae7e-0a7ff305fcd5")
+		)
+		(pin "1"
+			(uuid "b597d007-afe2-4723-bc62-72c0cfb971e2")
+		)
+		(instances
+			(project "macropad"
+				(path "/fddb5834-d5ab-4409-9354-19753969cd28"
+					(reference "D15")
+					(unit 1)
+				)
+			)
+		)
+	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
 		(at 251.46 134.62 0)
@@ -2428,7 +2927,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0ad3f10c-13f0-4a66-9a4c-70b76189e6ac")
-		(property "Reference" "SW22"
+		(property "Reference" "SW23"
 			(at 251.46 127 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2491,7 +2990,132 @@
 		(instances
 			(project "macropad"
 				(path "/fddb5834-d5ab-4409-9354-19753969cd28"
-					(reference "SW22")
+					(reference "SW23")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_45deg")
+		(at 223.52 58.42 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "104afe88-1b88-49cf-9011-951bbada3243")
+		(property "Reference" "D2"
+			(at 223.52 50.8 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1N4148WS-7-F"
+			(at 223.52 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-323"
+			(at 223.52 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/1N4148WS_BAV16WS.pdf"
+			(at 223.52 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Diode, rotated by 45°"
+			(at 223.52 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 223.52 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 223.52 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey" "1N4148WS-FDICT-ND"
+			(at 223.52 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Diodes Incorporated"
+			(at 223.52 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "454e1f62-1709-4183-ba6a-cc426d81244c")
+		)
+		(pin "1"
+			(uuid "b031063c-5539-42c9-b8ed-35aeb293a810")
+		)
+		(instances
+			(project "macropad"
+				(path "/fddb5834-d5ab-4409-9354-19753969cd28"
+					(reference "D2")
 					(unit 1)
 				)
 			)
@@ -2509,7 +3133,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1072f743-8bb3-4c2d-839e-9ae5ec3674c5")
-		(property "Reference" "SW16"
+		(property "Reference" "SW12"
 			(at 218.44 86.36 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2572,7 +3196,7 @@
 		(instances
 			(project "macropad"
 				(path "/fddb5834-d5ab-4409-9354-19753969cd28"
-					(reference "SW16")
+					(reference "SW12")
 					(unit 1)
 				)
 			)
@@ -2590,7 +3214,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "10f0e5be-22c9-4e38-bab8-1e4f146a79de")
-		(property "Reference" "SW29"
+		(property "Reference" "SW6"
 			(at 201.93 66.04 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2653,7 +3277,7 @@
 		(instances
 			(project "macropad"
 				(path "/fddb5834-d5ab-4409-9354-19753969cd28"
-					(reference "SW29")
+					(reference "SW6")
 					(unit 1)
 				)
 			)
@@ -2671,7 +3295,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "135b0075-e5f4-4053-95da-5a61caab186e")
-		(property "Reference" "SW21"
+		(property "Reference" "SW22"
 			(at 234.95 127 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2734,213 +3358,7 @@
 		(instances
 			(project "macropad"
 				(path "/fddb5834-d5ab-4409-9354-19753969cd28"
-					(reference "SW21")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D_45deg")
-		(at 207.01 160.02 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "147c9dcc-8b2d-42d3-9fa7-eb6745150c23")
-		(property "Reference" "D29"
-			(at 207.01 152.4 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "D_45deg"
-			(at 207.01 154.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 207.01 160.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 207.01 160.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Diode, rotated by 45°"
-			(at 207.01 160.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 207.01 171.45 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 207.01 168.91 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "eafdde88-cc2a-4d96-8b25-a3ad3d6090dd")
-		)
-		(pin "1"
-			(uuid "63db4786-a0ab-403c-9fb7-5ae4fbf649d3")
-		)
-		(instances
-			(project "macropad"
-				(path "/fddb5834-d5ab-4409-9354-19753969cd28"
-					(reference "D29")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D_45deg")
-		(at 273.05 78.74 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "175a61d0-e327-47a2-b821-69492cee52c7")
-		(property "Reference" "D45"
-			(at 273.05 71.12 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "D_45deg"
-			(at 273.05 73.66 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 273.05 78.74 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 273.05 78.74 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Diode, rotated by 45°"
-			(at 273.05 78.74 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 273.05 90.17 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 273.05 87.63 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "f11740c9-a6f7-4013-8099-f362cce58fdc")
-		)
-		(pin "1"
-			(uuid "cbf6cdc4-2abc-4093-b1a4-d75493413116")
-		)
-		(instances
-			(project "macropad"
-				(path "/fddb5834-d5ab-4409-9354-19753969cd28"
-					(reference "D45")
+					(reference "SW22")
 					(unit 1)
 				)
 			)
@@ -2958,7 +3376,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1bd539ef-7e3f-4725-bd6d-52f5e525ac3c")
-		(property "Reference" "D24"
+		(property "Reference" "D1"
 			(at 207.01 50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2968,7 +3386,7 @@
 				)
 			)
 		)
-		(property "Value" "D_45deg"
+		(property "Value" "1N4148WS-7-F"
 			(at 207.01 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -2979,7 +3397,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 207.01 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -2990,7 +3408,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/1N4148WS_BAV16WS.pdf"
 			(at 207.01 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -3034,6 +3452,28 @@
 				)
 			)
 		)
+		(property "Digikey" "1N4148WS-FDICT-ND"
+			(at 207.01 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Diodes Incorporated"
+			(at 207.01 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "b5f11141-8a20-41c7-824e-55dda678738a")
 		)
@@ -3043,110 +3483,7 @@
 		(instances
 			(project "macropad"
 				(path "/fddb5834-d5ab-4409-9354-19753969cd28"
-					(reference "D24")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D_45deg")
-		(at 256.54 58.42 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2c2746e4-341c-4182-8eb1-176403c879b5")
-		(property "Reference" "D30"
-			(at 256.54 50.8 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "D_45deg"
-			(at 256.54 53.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 256.54 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 256.54 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Diode, rotated by 45°"
-			(at 256.54 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 256.54 69.85 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 256.54 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "f0fb5b0e-3886-4f28-a879-64f6920a9ae8")
-		)
-		(pin "1"
-			(uuid "658b542a-ce9a-4e16-8b25-b7e761b6dc3f")
-		)
-		(instances
-			(project "macropad"
-				(path "/fddb5834-d5ab-4409-9354-19753969cd28"
-					(reference "D30")
+					(reference "D1")
 					(unit 1)
 				)
 			)
@@ -3164,7 +3501,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2e1c0735-451e-48f4-b877-aabc8802bceb")
-		(property "Reference" "SW25"
+		(property "Reference" "SW26"
 			(at 234.95 147.32 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3227,110 +3564,7 @@
 		(instances
 			(project "macropad"
 				(path "/fddb5834-d5ab-4409-9354-19753969cd28"
-					(reference "SW25")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D_45deg")
-		(at 240.03 139.7 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2e4bf6d5-6afb-45ff-b23b-0f3348bf7098")
-		(property "Reference" "D38"
-			(at 240.03 132.08 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "D_45deg"
-			(at 240.03 134.62 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 240.03 139.7 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 240.03 139.7 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Diode, rotated by 45°"
-			(at 240.03 139.7 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 240.03 151.13 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 240.03 148.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "75d121be-a498-46d0-bddd-5c31ee4f0f0d")
-		)
-		(pin "1"
-			(uuid "ec4e1e12-0af5-4bdd-a693-18e59e5a6892")
-		)
-		(instances
-			(project "macropad"
-				(path "/fddb5834-d5ab-4409-9354-19753969cd28"
-					(reference "D38")
+					(reference "SW26")
 					(unit 1)
 				)
 			)
@@ -3348,7 +3582,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3178ddb1-f9ae-48cf-b3a4-5db968342ca0")
-		(property "Reference" "SW20"
+		(property "Reference" "SW21"
 			(at 218.44 127 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3411,7 +3645,257 @@
 		(instances
 			(project "macropad"
 				(path "/fddb5834-d5ab-4409-9354-19753969cd28"
-					(reference "SW20")
+					(reference "SW21")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_45deg")
+		(at 207.01 99.06 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "337fb5cb-974e-40ad-96f1-983fa3cf2942")
+		(property "Reference" "D11"
+			(at 207.01 91.44 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1N4148WS-7-F"
+			(at 207.01 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-323"
+			(at 207.01 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/1N4148WS_BAV16WS.pdf"
+			(at 207.01 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Diode, rotated by 45°"
+			(at 207.01 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 207.01 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 207.01 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey" "1N4148WS-FDICT-ND"
+			(at 207.01 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Diodes Incorporated"
+			(at 207.01 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "fb3345c7-059a-46a2-a2c5-be92a0f1d08f")
+		)
+		(pin "1"
+			(uuid "97e743b2-091f-46d0-8afa-db734b6b8cb0")
+		)
+		(instances
+			(project "macropad"
+				(path "/fddb5834-d5ab-4409-9354-19753969cd28"
+					(reference "D11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_45deg")
+		(at 256.54 160.02 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "36165a6e-4e26-4ee3-8054-77fecc051cbb")
+		(property "Reference" "D27"
+			(at 256.54 152.4 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1N4148WS-7-F"
+			(at 256.54 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-323"
+			(at 256.54 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/1N4148WS_BAV16WS.pdf"
+			(at 256.54 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Diode, rotated by 45°"
+			(at 256.54 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 256.54 171.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 256.54 168.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey" "1N4148WS-FDICT-ND"
+			(at 256.54 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Diodes Incorporated"
+			(at 256.54 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "1467d500-d541-4871-8a30-9b81bf296323")
+		)
+		(pin "1"
+			(uuid "98755ccc-9b29-4d30-b6d4-055d06a079b2")
+		)
+		(instances
+			(project "macropad"
+				(path "/fddb5834-d5ab-4409-9354-19753969cd28"
+					(reference "D27")
 					(unit 1)
 				)
 			)
@@ -3429,7 +3913,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "37224b06-7260-4360-a8a8-daad5b85108c")
-		(property "Reference" "SW8"
+		(property "Reference" "SW4"
 			(at 251.46 45.72 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3492,316 +3976,7 @@
 		(instances
 			(project "macropad"
 				(path "/fddb5834-d5ab-4409-9354-19753969cd28"
-					(reference "SW8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D_45deg")
-		(at 240.03 99.06 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "37cb2196-fc2d-441d-97c3-a7e1e27c2a00")
-		(property "Reference" "D37"
-			(at 240.03 91.44 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "D_45deg"
-			(at 240.03 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 240.03 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 240.03 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Diode, rotated by 45°"
-			(at 240.03 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 240.03 110.49 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 240.03 107.95 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "c4c7c487-7867-4dd7-a737-8f5a36dbd3e3")
-		)
-		(pin "1"
-			(uuid "bffd5d27-160d-4f5e-8a13-b0a5bd35aadb")
-		)
-		(instances
-			(project "macropad"
-				(path "/fddb5834-d5ab-4409-9354-19753969cd28"
-					(reference "D37")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D_45deg")
-		(at 256.54 99.06 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "3855e431-5db0-4103-bbef-8b71b1c398b8")
-		(property "Reference" "D41"
-			(at 256.54 91.44 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "D_45deg"
-			(at 256.54 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 256.54 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 256.54 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Diode, rotated by 45°"
-			(at 256.54 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 256.54 110.49 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 256.54 107.95 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "29b67133-49bd-483f-b523-799d18cc5fbf")
-		)
-		(pin "1"
-			(uuid "d9a4690e-7605-4be4-8169-379ac3f774ae")
-		)
-		(instances
-			(project "macropad"
-				(path "/fddb5834-d5ab-4409-9354-19753969cd28"
-					(reference "D41")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D_45deg")
-		(at 273.05 99.06 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "3a8768be-a5ac-41d1-b792-c821c99829fa")
-		(property "Reference" "D46"
-			(at 273.05 91.44 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "D_45deg"
-			(at 273.05 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 273.05 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 273.05 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Diode, rotated by 45°"
-			(at 273.05 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 273.05 110.49 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 273.05 107.95 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "fc3eb912-c8e0-49bb-91e0-6485bb3786f8")
-		)
-		(pin "1"
-			(uuid "00fd006c-e2eb-474e-a404-06abd82cbb18")
-		)
-		(instances
-			(project "macropad"
-				(path "/fddb5834-d5ab-4409-9354-19753969cd28"
-					(reference "D46")
+					(reference "SW4")
 					(unit 1)
 				)
 			)
@@ -3890,7 +4065,7 @@
 	)
 	(symbol
 		(lib_id "Device:D_45deg")
-		(at 240.03 119.38 0)
+		(at 256.54 99.06 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3899,9 +4074,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "44ddffa4-d5ae-4d27-8d8a-c5e2e843383f")
-		(property "Reference" "D42"
-			(at 240.03 111.76 0)
+		(uuid "3b540eea-04b3-4623-89af-044c09ceb413")
+		(property "Reference" "D14"
+			(at 256.54 91.44 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3910,8 +4085,8 @@
 				)
 			)
 		)
-		(property "Value" "D_45deg"
-			(at 240.03 114.3 0)
+		(property "Value" "1N4148WS-7-F"
+			(at 256.54 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3921,8 +4096,8 @@
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 240.03 119.38 0)
+		(property "Footprint" "Diode_SMD:D_SOD-323"
+			(at 256.54 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3932,8 +4107,8 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
-			(at 240.03 119.38 0)
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/1N4148WS_BAV16WS.pdf"
+			(at 256.54 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3944,7 +4119,7 @@
 			)
 		)
 		(property "Description" "Diode, rotated by 45°"
-			(at 240.03 119.38 0)
+			(at 256.54 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3955,7 +4130,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 240.03 130.81 0)
+			(at 256.54 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3966,7 +4141,29 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 240.03 128.27 0)
+			(at 256.54 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey" "1N4148WS-FDICT-ND"
+			(at 256.54 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Diodes Incorporated"
+			(at 256.54 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3977,15 +4174,265 @@
 			)
 		)
 		(pin "2"
-			(uuid "e2a29cd2-553d-4672-9859-ba2236ec0577")
+			(uuid "90f5a4d0-70e5-4bae-8d94-127a0ee82045")
 		)
 		(pin "1"
-			(uuid "357b603f-4848-451f-b7b0-dd97935df6af")
+			(uuid "97ef71c7-a396-49b7-952b-dcbb1a024a9c")
 		)
 		(instances
 			(project "macropad"
 				(path "/fddb5834-d5ab-4409-9354-19753969cd28"
-					(reference "D42")
+					(reference "D14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_45deg")
+		(at 207.01 78.74 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3def5b93-beeb-4985-9030-bbaabf570e18")
+		(property "Reference" "D6"
+			(at 207.01 71.12 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1N4148WS-7-F"
+			(at 207.01 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-323"
+			(at 207.01 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/1N4148WS_BAV16WS.pdf"
+			(at 207.01 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Diode, rotated by 45°"
+			(at 207.01 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 207.01 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 207.01 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey" "1N4148WS-FDICT-ND"
+			(at 207.01 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Diodes Incorporated"
+			(at 207.01 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "e1c204b6-82c0-4602-8ed4-a883d9a6bf32")
+		)
+		(pin "1"
+			(uuid "c8c8f80d-3a07-44c2-89a7-3ea017f16ccb")
+		)
+		(instances
+			(project "macropad"
+				(path "/fddb5834-d5ab-4409-9354-19753969cd28"
+					(reference "D6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_45deg")
+		(at 240.03 58.42 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "475b6d84-2c2e-4c7f-bffa-b79c8038c26b")
+		(property "Reference" "D3"
+			(at 240.03 50.8 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1N4148WS-7-F"
+			(at 240.03 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-323"
+			(at 240.03 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/1N4148WS_BAV16WS.pdf"
+			(at 240.03 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Diode, rotated by 45°"
+			(at 240.03 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 240.03 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 240.03 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey" "1N4148WS-FDICT-ND"
+			(at 240.03 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Diodes Incorporated"
+			(at 240.03 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "454e1f62-1709-4183-ba6a-cc426d81244c")
+		)
+		(pin "1"
+			(uuid "b031063c-5539-42c9-b8ed-35aeb293a810")
+		)
+		(instances
+			(project "macropad"
+				(path "/fddb5834-d5ab-4409-9354-19753969cd28"
+					(reference "D3")
 					(unit 1)
 				)
 			)
@@ -4145,7 +4592,7 @@
 	)
 	(symbol
 		(lib_id "Device:D_45deg")
-		(at 207.01 119.38 0)
+		(at 223.52 160.02 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4154,9 +4601,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "5c0a0a95-c20b-4293-aa3f-1aceb9ea989c")
-		(property "Reference" "D49"
-			(at 207.01 111.76 0)
+		(uuid "5b249825-4bb8-454f-8f7a-f0cc2279662b")
+		(property "Reference" "D25"
+			(at 223.52 152.4 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4165,8 +4612,8 @@
 				)
 			)
 		)
-		(property "Value" "D_45deg"
-			(at 207.01 114.3 0)
+		(property "Value" "1N4148WS-7-F"
+			(at 223.52 154.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4176,8 +4623,8 @@
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 207.01 119.38 0)
+		(property "Footprint" "Diode_SMD:D_SOD-323"
+			(at 223.52 160.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4187,8 +4634,8 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
-			(at 207.01 119.38 0)
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/1N4148WS_BAV16WS.pdf"
+			(at 223.52 160.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4199,7 +4646,7 @@
 			)
 		)
 		(property "Description" "Diode, rotated by 45°"
-			(at 207.01 119.38 0)
+			(at 223.52 160.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4210,7 +4657,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 207.01 130.81 0)
+			(at 223.52 171.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4221,7 +4668,29 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 207.01 128.27 0)
+			(at 223.52 168.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey" "1N4148WS-FDICT-ND"
+			(at 223.52 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Diodes Incorporated"
+			(at 223.52 160.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4232,15 +4701,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "07cbe6a5-71d7-4525-ad62-8397ad546d36")
+			(uuid "1676e53e-cd5f-459e-986d-820360679f71")
 		)
 		(pin "1"
-			(uuid "4c9d523f-9853-4a62-93db-0af59fa70aa7")
+			(uuid "56f4ccf2-3ab1-4660-ae82-aa4b8df91c0b")
 		)
 		(instances
 			(project "macropad"
 				(path "/fddb5834-d5ab-4409-9354-19753969cd28"
-					(reference "D49")
+					(reference "D25")
 					(unit 1)
 				)
 			)
@@ -4248,7 +4717,7 @@
 	)
 	(symbol
 		(lib_id "Device:D_45deg")
-		(at 207.01 78.74 0)
+		(at 223.52 139.7 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4257,9 +4726,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "5ef19197-503a-49d0-aaf3-5437733b2d82")
-		(property "Reference" "D26"
-			(at 207.01 71.12 0)
+		(uuid "5d996719-683e-4ee7-8b05-e57d8981d0a2")
+		(property "Reference" "D21"
+			(at 223.52 132.08 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4268,8 +4737,8 @@
 				)
 			)
 		)
-		(property "Value" "D_45deg"
-			(at 207.01 73.66 0)
+		(property "Value" "1N4148WS-7-F"
+			(at 223.52 134.62 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4279,8 +4748,8 @@
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 207.01 78.74 0)
+		(property "Footprint" "Diode_SMD:D_SOD-323"
+			(at 223.52 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4290,8 +4759,8 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
-			(at 207.01 78.74 0)
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/1N4148WS_BAV16WS.pdf"
+			(at 223.52 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4302,7 +4771,7 @@
 			)
 		)
 		(property "Description" "Diode, rotated by 45°"
-			(at 207.01 78.74 0)
+			(at 223.52 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4313,7 +4782,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 207.01 90.17 0)
+			(at 223.52 151.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4324,7 +4793,29 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 207.01 87.63 0)
+			(at 223.52 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey" "1N4148WS-FDICT-ND"
+			(at 223.52 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Diodes Incorporated"
+			(at 223.52 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4335,118 +4826,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "62f765bb-108c-485f-ae63-50c4c4a5a8cc")
+			(uuid "bf0dcf2c-7d85-4fc0-94cc-5e35c094dde5")
 		)
 		(pin "1"
-			(uuid "40f6ee17-2a6d-4960-98ad-ef77d4e68034")
+			(uuid "42e53595-5e70-4cdd-934d-d272e856384f")
 		)
 		(instances
 			(project "macropad"
 				(path "/fddb5834-d5ab-4409-9354-19753969cd28"
-					(reference "D26")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D_45deg")
-		(at 207.01 139.7 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "637a8927-d165-4f78-a25d-c50da6111252")
-		(property "Reference" "D28"
-			(at 207.01 132.08 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "D_45deg"
-			(at 207.01 134.62 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 207.01 139.7 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 207.01 139.7 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Diode, rotated by 45°"
-			(at 207.01 139.7 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 207.01 151.13 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 207.01 148.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "438296ad-80a9-453d-91ec-2201f6331970")
-		)
-		(pin "1"
-			(uuid "bb3ee5fa-e933-4be6-a371-abf7d4d2b9f2")
-		)
-		(instances
-			(project "macropad"
-				(path "/fddb5834-d5ab-4409-9354-19753969cd28"
-					(reference "D28")
+					(reference "D21")
 					(unit 1)
 				)
 			)
@@ -4464,7 +4852,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6957b84b-bc0e-4dff-b458-3e6c7ba3ccfc")
-		(property "Reference" "SW26"
+		(property "Reference" "SW27"
 			(at 251.46 147.32 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4485,7 +4873,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_2.00u_Vertical_PCB"
 			(at 251.46 154.94 0)
 			(hide yes)
 			(show_name no)
@@ -4527,7 +4915,132 @@
 		(instances
 			(project "macropad"
 				(path "/fddb5834-d5ab-4409-9354-19753969cd28"
-					(reference "SW26")
+					(reference "SW27")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_45deg")
+		(at 256.54 78.74 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6a4566e5-1a81-4fbe-b243-0c13758c703d")
+		(property "Reference" "D9"
+			(at 256.54 71.12 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1N4148WS-7-F"
+			(at 256.54 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-323"
+			(at 256.54 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/1N4148WS_BAV16WS.pdf"
+			(at 256.54 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Diode, rotated by 45°"
+			(at 256.54 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 256.54 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 256.54 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey" "1N4148WS-FDICT-ND"
+			(at 256.54 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Diodes Incorporated"
+			(at 256.54 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "3cc390bc-a6f2-4cac-afde-d606da3ed374")
+		)
+		(pin "1"
+			(uuid "06f8672c-d9ef-459f-8576-61eac81ddd56")
+		)
+		(instances
+			(project "macropad"
+				(path "/fddb5834-d5ab-4409-9354-19753969cd28"
+					(reference "D9")
 					(unit 1)
 				)
 			)
@@ -4545,7 +5058,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6b6622df-8923-449b-a2fa-eda98040722d")
-		(property "Reference" "SW27"
+		(property "Reference" "SW16"
 			(at 201.93 106.68 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4608,7 +5121,132 @@
 		(instances
 			(project "macropad"
 				(path "/fddb5834-d5ab-4409-9354-19753969cd28"
-					(reference "SW27")
+					(reference "SW16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_45deg")
+		(at 207.01 139.7 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6db2c933-d78c-4904-9d11-33fb0b5fd27c")
+		(property "Reference" "D20"
+			(at 207.01 132.08 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1N4148WS-7-F"
+			(at 207.01 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-323"
+			(at 207.01 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/1N4148WS_BAV16WS.pdf"
+			(at 207.01 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Diode, rotated by 45°"
+			(at 207.01 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 207.01 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 207.01 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey" "1N4148WS-FDICT-ND"
+			(at 207.01 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Diodes Incorporated"
+			(at 207.01 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "160ca459-fbac-4983-9376-afec3c44051b")
+		)
+		(pin "1"
+			(uuid "0ea40c71-101f-4651-b216-8daf2518d8e3")
+		)
+		(instances
+			(project "macropad"
+				(path "/fddb5834-d5ab-4409-9354-19753969cd28"
+					(reference "D20")
 					(unit 1)
 				)
 			)
@@ -4626,7 +5264,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6df170f8-1187-40c6-89bd-5ec45c91e124")
-		(property "Reference" "SW28"
+		(property "Reference" "SW3"
 			(at 234.95 45.72 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4689,7 +5327,7 @@
 		(instances
 			(project "macropad"
 				(path "/fddb5834-d5ab-4409-9354-19753969cd28"
-					(reference "SW28")
+					(reference "SW3")
 					(unit 1)
 				)
 			)
@@ -4697,7 +5335,7 @@
 	)
 	(symbol
 		(lib_id "Device:D_45deg")
-		(at 256.54 139.7 0)
+		(at 223.52 78.74 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4706,9 +5344,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "70aefe53-9696-4a2e-a6b5-6ccacb88a2f6")
-		(property "Reference" "D43"
-			(at 256.54 132.08 0)
+		(uuid "7152a106-6223-41ca-a87b-86c777f3fbec")
+		(property "Reference" "D7"
+			(at 223.52 71.12 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4717,8 +5355,8 @@
 				)
 			)
 		)
-		(property "Value" "D_45deg"
-			(at 256.54 134.62 0)
+		(property "Value" "1N4148WS-7-F"
+			(at 223.52 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4728,8 +5366,8 @@
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 256.54 139.7 0)
+		(property "Footprint" "Diode_SMD:D_SOD-323"
+			(at 223.52 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4739,8 +5377,8 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
-			(at 256.54 139.7 0)
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/1N4148WS_BAV16WS.pdf"
+			(at 223.52 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4751,7 +5389,7 @@
 			)
 		)
 		(property "Description" "Diode, rotated by 45°"
-			(at 256.54 139.7 0)
+			(at 223.52 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4762,7 +5400,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 256.54 151.13 0)
+			(at 223.52 90.17 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4773,7 +5411,29 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 256.54 148.59 0)
+			(at 223.52 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey" "1N4148WS-FDICT-ND"
+			(at 223.52 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Diodes Incorporated"
+			(at 223.52 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4784,15 +5444,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "a1877eaa-85a6-4282-9fa5-2e1b4d191ee9")
+			(uuid "af5de885-38fe-44a8-beae-fe0b4ea2bf24")
 		)
 		(pin "1"
-			(uuid "4ea7bff0-9bd8-45d7-b025-bfbe924a7f8f")
+			(uuid "2ab1c73d-ee94-4bc3-b55b-e171d0ba4b5b")
 		)
 		(instances
 			(project "macropad"
 				(path "/fddb5834-d5ab-4409-9354-19753969cd28"
-					(reference "D43")
+					(reference "D7")
 					(unit 1)
 				)
 			)
@@ -4810,7 +5470,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "719df856-1b2f-4049-9c62-f7de412b6df7")
-		(property "Reference" "SW3"
+		(property "Reference" "SW2"
 			(at 218.44 45.72 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4873,110 +5533,7 @@
 		(instances
 			(project "macropad"
 				(path "/fddb5834-d5ab-4409-9354-19753969cd28"
-					(reference "SW3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D_45deg")
-		(at 223.52 78.74 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "76690488-d881-4ea0-a454-a90fcf8808bd")
-		(property "Reference" "D31"
-			(at 223.52 71.12 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "D_45deg"
-			(at 223.52 73.66 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 223.52 78.74 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 223.52 78.74 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Diode, rotated by 45°"
-			(at 223.52 78.74 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 223.52 90.17 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 223.52 87.63 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "e1ab75a8-f581-4dd0-96ac-cb00aeb00ff3")
-		)
-		(pin "1"
-			(uuid "8a451d0d-13eb-47be-87fd-b28967234c8f")
-		)
-		(instances
-			(project "macropad"
-				(path "/fddb5834-d5ab-4409-9354-19753969cd28"
-					(reference "D31")
+					(reference "SW2")
 					(unit 1)
 				)
 			)
@@ -4994,7 +5551,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7990f72f-d04c-47e4-a7a5-a9b450ae8d13")
-		(property "Reference" "SW13"
+		(property "Reference" "SW8"
 			(at 234.95 66.04 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5057,7 +5614,7 @@
 		(instances
 			(project "macropad"
 				(path "/fddb5834-d5ab-4409-9354-19753969cd28"
-					(reference "SW13")
+					(reference "SW8")
 					(unit 1)
 				)
 			)
@@ -5145,109 +5702,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:D_45deg")
-		(at 223.52 58.42 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8061d1e3-b407-40c2-b95b-4ca0f0c4ba9b")
-		(property "Reference" "D50"
-			(at 223.52 50.8 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "D_45deg"
-			(at 223.52 53.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 223.52 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 223.52 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Diode, rotated by 45°"
-			(at 223.52 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 223.52 69.85 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 223.52 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "af2e50e3-be99-4867-aac5-01090274e6c1")
-		)
-		(pin "1"
-			(uuid "99f2ec9a-1212-4f53-9c9c-13be35b6a22e")
-		)
-		(instances
-			(project "macropad"
-				(path "/fddb5834-d5ab-4409-9354-19753969cd28"
-					(reference "D50")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Switch:SW_Push_45deg")
 		(at 267.97 73.66 0)
 		(unit 1)
@@ -5259,7 +5713,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "809532e8-7abc-4880-a459-a43189394c34")
-		(property "Reference" "SW11"
+		(property "Reference" "SW10"
 			(at 267.97 66.04 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5322,7 +5776,7 @@
 		(instances
 			(project "macropad"
 				(path "/fddb5834-d5ab-4409-9354-19753969cd28"
-					(reference "SW11")
+					(reference "SW10")
 					(unit 1)
 				)
 			)
@@ -5330,7 +5784,7 @@
 	)
 	(symbol
 		(lib_id "Device:D_45deg")
-		(at 207.01 99.06 0)
+		(at 240.03 160.02 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5339,9 +5793,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "8c743295-7cb0-492b-9add-bc1258f04d9a")
-		(property "Reference" "D27"
-			(at 207.01 91.44 0)
+		(uuid "8615ff58-3d70-4503-82ca-90b7d2a335db")
+		(property "Reference" "D26"
+			(at 240.03 152.4 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5350,8 +5804,8 @@
 				)
 			)
 		)
-		(property "Value" "D_45deg"
-			(at 207.01 93.98 0)
+		(property "Value" "1N4148WS-7-F"
+			(at 240.03 154.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5361,8 +5815,8 @@
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 207.01 99.06 0)
+		(property "Footprint" "Diode_SMD:D_SOD-323"
+			(at 240.03 160.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5372,8 +5826,8 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
-			(at 207.01 99.06 0)
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/1N4148WS_BAV16WS.pdf"
+			(at 240.03 160.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5384,7 +5838,7 @@
 			)
 		)
 		(property "Description" "Diode, rotated by 45°"
-			(at 207.01 99.06 0)
+			(at 240.03 160.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5395,7 +5849,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 207.01 110.49 0)
+			(at 240.03 171.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5406,7 +5860,29 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 207.01 107.95 0)
+			(at 240.03 168.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey" "1N4148WS-FDICT-ND"
+			(at 240.03 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Diodes Incorporated"
+			(at 240.03 160.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5417,15 +5893,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "cc84c8c0-7785-4602-9703-1e22cbc312e5")
+			(uuid "ce8eced3-5667-4db2-b7bf-4dd77ba72361")
 		)
 		(pin "1"
-			(uuid "29c653e4-25a9-4e63-9f18-28542cce7e1f")
+			(uuid "bfb3e561-4bf0-4a7a-8514-7e344de66d14")
 		)
 		(instances
 			(project "macropad"
 				(path "/fddb5834-d5ab-4409-9354-19753969cd28"
-					(reference "D27")
+					(reference "D26")
 					(unit 1)
 				)
 			)
@@ -5433,7 +5909,7 @@
 	)
 	(symbol
 		(lib_id "Device:D_45deg")
-		(at 223.52 119.38 0)
+		(at 223.52 99.06 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5442,9 +5918,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "8daf360f-95ed-4d48-8453-31affd7864e4")
-		(property "Reference" "D48"
-			(at 223.52 111.76 0)
+		(uuid "882a3b70-687e-4877-9cc8-60952b977971")
+		(property "Reference" "D12"
+			(at 223.52 91.44 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5453,8 +5929,8 @@
 				)
 			)
 		)
-		(property "Value" "D_45deg"
-			(at 223.52 114.3 0)
+		(property "Value" "1N4148WS-7-F"
+			(at 223.52 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5464,8 +5940,8 @@
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 223.52 119.38 0)
+		(property "Footprint" "Diode_SMD:D_SOD-323"
+			(at 223.52 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5475,8 +5951,8 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
-			(at 223.52 119.38 0)
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/1N4148WS_BAV16WS.pdf"
+			(at 223.52 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5487,7 +5963,7 @@
 			)
 		)
 		(property "Description" "Diode, rotated by 45°"
-			(at 223.52 119.38 0)
+			(at 223.52 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5498,7 +5974,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 223.52 130.81 0)
+			(at 223.52 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5509,7 +5985,29 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 223.52 128.27 0)
+			(at 223.52 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey" "1N4148WS-FDICT-ND"
+			(at 223.52 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Diodes Incorporated"
+			(at 223.52 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5520,15 +6018,390 @@
 			)
 		)
 		(pin "2"
-			(uuid "0fa6cb71-d1bd-4d34-b224-e12c15b7dd40")
+			(uuid "7d5b90be-8f42-4d02-94e1-b21b4516dde5")
 		)
 		(pin "1"
-			(uuid "f842a597-63b4-407c-9b65-5cab87adcd77")
+			(uuid "8f9afa11-53e1-49c7-8673-3eb53c31db77")
 		)
 		(instances
 			(project "macropad"
 				(path "/fddb5834-d5ab-4409-9354-19753969cd28"
-					(reference "D48")
+					(reference "D12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_45deg")
+		(at 256.54 119.38 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "891679f2-6ff9-4c2b-87bf-0b296d6d704b")
+		(property "Reference" "D19"
+			(at 256.54 111.76 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1N4148WS-7-F"
+			(at 256.54 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-323"
+			(at 256.54 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/1N4148WS_BAV16WS.pdf"
+			(at 256.54 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Diode, rotated by 45°"
+			(at 256.54 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 256.54 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 256.54 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey" "1N4148WS-FDICT-ND"
+			(at 256.54 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Diodes Incorporated"
+			(at 256.54 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "8f0291b4-77b8-412e-82c9-c01cdd44632f")
+		)
+		(pin "1"
+			(uuid "6f86eed3-ff27-4592-b912-7638f1bbddad")
+		)
+		(instances
+			(project "macropad"
+				(path "/fddb5834-d5ab-4409-9354-19753969cd28"
+					(reference "D19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_45deg")
+		(at 207.01 160.02 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8c4ee8d5-bb9c-4863-abd3-97e7e4474dde")
+		(property "Reference" "D24"
+			(at 207.01 152.4 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1N4148WS-7-F"
+			(at 207.01 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-323"
+			(at 207.01 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/1N4148WS_BAV16WS.pdf"
+			(at 207.01 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Diode, rotated by 45°"
+			(at 207.01 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 207.01 171.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 207.01 168.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey" "1N4148WS-FDICT-ND"
+			(at 207.01 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Diodes Incorporated"
+			(at 207.01 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "c523870b-7ed1-470a-a722-d7ffff0aaf36")
+		)
+		(pin "1"
+			(uuid "f54142c1-963c-4643-a77b-fc45a29ca0b7")
+		)
+		(instances
+			(project "macropad"
+				(path "/fddb5834-d5ab-4409-9354-19753969cd28"
+					(reference "D24")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_45deg")
+		(at 256.54 58.42 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "911c1400-3670-49c0-96c7-d9eaabaa1d2a")
+		(property "Reference" "D4"
+			(at 256.54 50.8 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1N4148WS-7-F"
+			(at 256.54 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-323"
+			(at 256.54 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/1N4148WS_BAV16WS.pdf"
+			(at 256.54 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Diode, rotated by 45°"
+			(at 256.54 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 256.54 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 256.54 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey" "1N4148WS-FDICT-ND"
+			(at 256.54 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Diodes Incorporated"
+			(at 256.54 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "454e1f62-1709-4183-ba6a-cc426d81244c")
+		)
+		(pin "1"
+			(uuid "b031063c-5539-42c9-b8ed-35aeb293a810")
+		)
+		(instances
+			(project "macropad"
+				(path "/fddb5834-d5ab-4409-9354-19753969cd28"
+					(reference "D4")
 					(unit 1)
 				)
 			)
@@ -5546,7 +6419,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "95e06695-7e8b-4a27-993d-c520bbfef5ad")
-		(property "Reference" "SW31"
+		(property "Reference" "SW20"
 			(at 201.93 127 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5609,7 +6482,7 @@
 		(instances
 			(project "macropad"
 				(path "/fddb5834-d5ab-4409-9354-19753969cd28"
-					(reference "SW31")
+					(reference "SW20")
 					(unit 1)
 				)
 			)
@@ -5617,7 +6490,7 @@
 	)
 	(symbol
 		(lib_id "Device:D_45deg")
-		(at 273.05 58.42 0)
+		(at 223.52 119.38 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5626,9 +6499,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "9bf8f972-6ff9-4416-9109-45395c5dc526")
-		(property "Reference" "D35"
-			(at 273.05 50.8 0)
+		(uuid "9f01cc9b-8640-4ebc-b02a-5e0d44aa08f9")
+		(property "Reference" "D17"
+			(at 223.52 111.76 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5637,8 +6510,8 @@
 				)
 			)
 		)
-		(property "Value" "D_45deg"
-			(at 273.05 53.34 0)
+		(property "Value" "1N4148WS-7-F"
+			(at 223.52 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5648,8 +6521,8 @@
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 273.05 58.42 0)
+		(property "Footprint" "Diode_SMD:D_SOD-323"
+			(at 223.52 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5659,8 +6532,8 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
-			(at 273.05 58.42 0)
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/1N4148WS_BAV16WS.pdf"
+			(at 223.52 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5671,7 +6544,7 @@
 			)
 		)
 		(property "Description" "Diode, rotated by 45°"
-			(at 273.05 58.42 0)
+			(at 223.52 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5682,7 +6555,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 273.05 69.85 0)
+			(at 223.52 130.81 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5693,7 +6566,29 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 273.05 67.31 0)
+			(at 223.52 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey" "1N4148WS-FDICT-ND"
+			(at 223.52 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Diodes Incorporated"
+			(at 223.52 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5704,15 +6599,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "03d4f212-d345-470f-b037-674b619204ae")
+			(uuid "75e76c90-9d35-4a94-a2cd-a9718ab6bc3f")
 		)
 		(pin "1"
-			(uuid "0259f962-3421-4599-bd28-ed4d71b64e99")
+			(uuid "c4a3048c-ce24-4e76-b6a6-44cb6e5a2734")
 		)
 		(instances
 			(project "macropad"
 				(path "/fddb5834-d5ab-4409-9354-19753969cd28"
-					(reference "D35")
+					(reference "D17")
 					(unit 1)
 				)
 			)
@@ -5720,7 +6615,7 @@
 	)
 	(symbol
 		(lib_id "Device:D_45deg")
-		(at 256.54 78.74 0)
+		(at 207.01 119.38 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5729,9 +6624,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "a5500e58-7fb6-45c7-bfe0-a166d188c63c")
-		(property "Reference" "D40"
-			(at 256.54 71.12 0)
+		(uuid "a7fad9aa-e508-47e6-b724-22a6c892f7b6")
+		(property "Reference" "D16"
+			(at 207.01 111.76 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5740,8 +6635,8 @@
 				)
 			)
 		)
-		(property "Value" "D_45deg"
-			(at 256.54 73.66 0)
+		(property "Value" "1N4148WS-7-F"
+			(at 207.01 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5751,8 +6646,8 @@
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 256.54 78.74 0)
+		(property "Footprint" "Diode_SMD:D_SOD-323"
+			(at 207.01 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5762,8 +6657,8 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
-			(at 256.54 78.74 0)
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/1N4148WS_BAV16WS.pdf"
+			(at 207.01 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5774,7 +6669,7 @@
 			)
 		)
 		(property "Description" "Diode, rotated by 45°"
-			(at 256.54 78.74 0)
+			(at 207.01 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5785,7 +6680,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 256.54 90.17 0)
+			(at 207.01 130.81 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5796,7 +6691,29 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 256.54 87.63 0)
+			(at 207.01 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey" "1N4148WS-FDICT-ND"
+			(at 207.01 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Diodes Incorporated"
+			(at 207.01 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5807,15 +6724,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "004403e8-8b1f-4b21-b67c-e651d594804a")
+			(uuid "763075b6-d423-41f7-8464-a09040f0ca75")
 		)
 		(pin "1"
-			(uuid "aa7c103a-fad6-4774-a324-a37f52583fe5")
+			(uuid "5f1723c8-5c8d-40c1-be48-ac7eab3b4585")
 		)
 		(instances
 			(project "macropad"
 				(path "/fddb5834-d5ab-4409-9354-19753969cd28"
-					(reference "D40")
+					(reference "D16")
 					(unit 1)
 				)
 			)
@@ -5912,7 +6829,7 @@
 	)
 	(symbol
 		(lib_id "Device:D_45deg")
-		(at 256.54 160.02 0)
+		(at 240.03 99.06 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5921,9 +6838,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "ad546e75-669f-48b9-a2f0-17a269542a76")
-		(property "Reference" "D44"
-			(at 256.54 152.4 0)
+		(uuid "a9dc5691-5a50-46c7-b082-e0e92c80fe0d")
+		(property "Reference" "D13"
+			(at 240.03 91.44 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5932,8 +6849,8 @@
 				)
 			)
 		)
-		(property "Value" "D_45deg"
-			(at 256.54 154.94 0)
+		(property "Value" "1N4148WS-7-F"
+			(at 240.03 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5943,8 +6860,8 @@
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 256.54 160.02 0)
+		(property "Footprint" "Diode_SMD:D_SOD-323"
+			(at 240.03 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5954,8 +6871,8 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
-			(at 256.54 160.02 0)
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/1N4148WS_BAV16WS.pdf"
+			(at 240.03 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5966,7 +6883,7 @@
 			)
 		)
 		(property "Description" "Diode, rotated by 45°"
-			(at 256.54 160.02 0)
+			(at 240.03 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5977,7 +6894,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 256.54 171.45 0)
+			(at 240.03 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5988,7 +6905,29 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 256.54 168.91 0)
+			(at 240.03 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey" "1N4148WS-FDICT-ND"
+			(at 240.03 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Diodes Incorporated"
+			(at 240.03 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5999,15 +6938,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "7795c9a0-ca6c-4522-bc8a-37cfef93efe6")
+			(uuid "946e04de-cdb4-4a7d-b6af-ac7e9a90d2df")
 		)
 		(pin "1"
-			(uuid "c4a85ec5-d2b8-4a98-bcbe-bed66d788195")
+			(uuid "94690396-42af-4221-8244-7e92c7af482d")
 		)
 		(instances
 			(project "macropad"
 				(path "/fddb5834-d5ab-4409-9354-19753969cd28"
-					(reference "D44")
+					(reference "D13")
 					(unit 1)
 				)
 			)
@@ -6025,7 +6964,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b2623d18-8750-476a-84f2-dc9da35f9673")
-		(property "Reference" "SW32"
+		(property "Reference" "SW24"
 			(at 201.93 147.32 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6088,7 +7027,7 @@
 		(instances
 			(project "macropad"
 				(path "/fddb5834-d5ab-4409-9354-19753969cd28"
-					(reference "SW32")
+					(reference "SW24")
 					(unit 1)
 				)
 			)
@@ -6096,7 +7035,7 @@
 	)
 	(symbol
 		(lib_id "Device:D_45deg")
-		(at 223.52 139.7 0)
+		(at 240.03 139.7 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6105,9 +7044,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "bc70499e-5f46-40c2-8b14-651a77c06f6c")
-		(property "Reference" "D33"
-			(at 223.52 132.08 0)
+		(uuid "c1cf5590-42c2-4027-93ec-312ce63d66ed")
+		(property "Reference" "D22"
+			(at 240.03 132.08 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6116,8 +7055,8 @@
 				)
 			)
 		)
-		(property "Value" "D_45deg"
-			(at 223.52 134.62 0)
+		(property "Value" "1N4148WS-7-F"
+			(at 240.03 134.62 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6127,8 +7066,8 @@
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 223.52 139.7 0)
+		(property "Footprint" "Diode_SMD:D_SOD-323"
+			(at 240.03 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6138,8 +7077,8 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
-			(at 223.52 139.7 0)
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/1N4148WS_BAV16WS.pdf"
+			(at 240.03 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6150,7 +7089,7 @@
 			)
 		)
 		(property "Description" "Diode, rotated by 45°"
-			(at 223.52 139.7 0)
+			(at 240.03 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6161,7 +7100,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 223.52 151.13 0)
+			(at 240.03 151.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6172,7 +7111,29 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 223.52 148.59 0)
+			(at 240.03 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey" "1N4148WS-FDICT-ND"
+			(at 240.03 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Diodes Incorporated"
+			(at 240.03 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6183,15 +7144,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "4e6b1424-0b0b-4477-a631-98de138d0dc3")
+			(uuid "67620ca4-73f9-40a4-aaef-10e5d145b96c")
 		)
 		(pin "1"
-			(uuid "cde1da18-94a2-41c0-93e9-2b40ea662abe")
+			(uuid "c646c4c5-9ccc-4bd8-b1cd-5db8c6f3081d")
 		)
 		(instances
 			(project "macropad"
 				(path "/fddb5834-d5ab-4409-9354-19753969cd28"
-					(reference "D33")
+					(reference "D22")
 					(unit 1)
 				)
 			)
@@ -6209,7 +7170,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c9f61ab6-50a7-41b8-a61a-6dc2df69cc3a")
-		(property "Reference" "SW12"
+		(property "Reference" "SW7"
 			(at 218.44 66.04 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6272,7 +7233,7 @@
 		(instances
 			(project "macropad"
 				(path "/fddb5834-d5ab-4409-9354-19753969cd28"
-					(reference "SW12")
+					(reference "SW7")
 					(unit 1)
 				)
 			)
@@ -6280,7 +7241,7 @@
 	)
 	(symbol
 		(lib_id "Device:D_45deg")
-		(at 240.03 160.02 0)
+		(at 273.05 58.42 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6289,9 +7250,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "ca0469ee-2bbf-4d32-9dac-436f53c63b61")
-		(property "Reference" "D39"
-			(at 240.03 152.4 0)
+		(uuid "ca8f4e26-ddfa-43e2-9e54-835647e676c9")
+		(property "Reference" "D5"
+			(at 273.05 50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6300,8 +7261,8 @@
 				)
 			)
 		)
-		(property "Value" "D_45deg"
-			(at 240.03 154.94 0)
+		(property "Value" "1N4148WS-7-F"
+			(at 273.05 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6311,8 +7272,8 @@
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 240.03 160.02 0)
+		(property "Footprint" "Diode_SMD:D_SOD-323"
+			(at 273.05 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6322,8 +7283,8 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
-			(at 240.03 160.02 0)
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/1N4148WS_BAV16WS.pdf"
+			(at 273.05 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6334,7 +7295,7 @@
 			)
 		)
 		(property "Description" "Diode, rotated by 45°"
-			(at 240.03 160.02 0)
+			(at 273.05 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6345,7 +7306,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 240.03 171.45 0)
+			(at 273.05 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6356,7 +7317,29 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 240.03 168.91 0)
+			(at 273.05 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey" "1N4148WS-FDICT-ND"
+			(at 273.05 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Diodes Incorporated"
+			(at 273.05 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6367,15 +7350,140 @@
 			)
 		)
 		(pin "2"
-			(uuid "18486c0d-8861-43bc-9b48-619f3c618574")
+			(uuid "454e1f62-1709-4183-ba6a-cc426d81244c")
 		)
 		(pin "1"
-			(uuid "8ed89b1c-7288-4f0e-bd44-4f9087ef00c0")
+			(uuid "b031063c-5539-42c9-b8ed-35aeb293a810")
 		)
 		(instances
 			(project "macropad"
 				(path "/fddb5834-d5ab-4409-9354-19753969cd28"
-					(reference "D39")
+					(reference "D5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_45deg")
+		(at 256.54 139.7 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cdbea930-e9e6-4ea1-92de-3cdde7edf700")
+		(property "Reference" "D23"
+			(at 256.54 132.08 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1N4148WS-7-F"
+			(at 256.54 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-323"
+			(at 256.54 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/1N4148WS_BAV16WS.pdf"
+			(at 256.54 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Diode, rotated by 45°"
+			(at 256.54 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 256.54 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 256.54 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey" "1N4148WS-FDICT-ND"
+			(at 256.54 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Diodes Incorporated"
+			(at 256.54 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "2703edc8-f1a1-42c6-9aa1-9948cbe4b134")
+		)
+		(pin "1"
+			(uuid "9035e763-3873-472d-adbb-771b2eb36d72")
+		)
+		(instances
+			(project "macropad"
+				(path "/fddb5834-d5ab-4409-9354-19753969cd28"
+					(reference "D23")
 					(unit 1)
 				)
 			)
@@ -6393,7 +7501,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cdd904ea-9dc4-422e-ac6b-a9f80226604e")
-		(property "Reference" "SW10"
+		(property "Reference" "SW9"
 			(at 251.46 66.04 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6456,7 +7564,7 @@
 		(instances
 			(project "macropad"
 				(path "/fddb5834-d5ab-4409-9354-19753969cd28"
-					(reference "SW10")
+					(reference "SW9")
 					(unit 1)
 				)
 			)
@@ -6464,7 +7572,7 @@
 	)
 	(symbol
 		(lib_id "Device:D_45deg")
-		(at 240.03 58.42 0)
+		(at 273.05 78.74 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6473,9 +7581,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "d0195979-2bcc-4252-8e03-109e24f13331")
-		(property "Reference" "D25"
-			(at 240.03 50.8 0)
+		(uuid "d10f472f-2ac3-4b63-b53c-c2b585841d87")
+		(property "Reference" "D10"
+			(at 273.05 71.12 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6484,8 +7592,8 @@
 				)
 			)
 		)
-		(property "Value" "D_45deg"
-			(at 240.03 53.34 0)
+		(property "Value" "1N4148WS-7-F"
+			(at 273.05 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6495,8 +7603,8 @@
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 240.03 58.42 0)
+		(property "Footprint" "Diode_SMD:D_SOD-323"
+			(at 273.05 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6506,8 +7614,8 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
-			(at 240.03 58.42 0)
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/1N4148WS_BAV16WS.pdf"
+			(at 273.05 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6518,7 +7626,7 @@
 			)
 		)
 		(property "Description" "Diode, rotated by 45°"
-			(at 240.03 58.42 0)
+			(at 273.05 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6529,7 +7637,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 240.03 69.85 0)
+			(at 273.05 90.17 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6540,7 +7648,29 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 240.03 67.31 0)
+			(at 273.05 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey" "1N4148WS-FDICT-ND"
+			(at 273.05 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Diodes Incorporated"
+			(at 273.05 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6551,118 +7681,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "7643ba5d-fcea-4cb3-86ea-0bd496fb8f82")
+			(uuid "807ab64d-c192-4b02-b964-b434f65d30ed")
 		)
 		(pin "1"
-			(uuid "f195b1f3-e7ec-47ec-a70b-282e1c1564da")
+			(uuid "19c373ce-6c21-4d14-be7c-a6f921dd0618")
 		)
 		(instances
 			(project "macropad"
 				(path "/fddb5834-d5ab-4409-9354-19753969cd28"
-					(reference "D25")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D_45deg")
-		(at 223.52 99.06 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d422ebe2-a8eb-4853-9347-f42688851e84")
-		(property "Reference" "D32"
-			(at 223.52 91.44 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "D_45deg"
-			(at 223.52 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 223.52 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 223.52 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Diode, rotated by 45°"
-			(at 223.52 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 223.52 110.49 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 223.52 107.95 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "4ba3275a-04ed-4b2d-8f73-50677d0dce98")
-		)
-		(pin "1"
-			(uuid "c69e984d-dfb4-4346-b259-1002054b62e7")
-		)
-		(instances
-			(project "macropad"
-				(path "/fddb5834-d5ab-4409-9354-19753969cd28"
-					(reference "D32")
+					(reference "D10")
 					(unit 1)
 				)
 			)
@@ -6680,7 +7707,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d6891298-88e9-4798-b7f7-478e96f0b9b5")
-		(property "Reference" "SW24"
+		(property "Reference" "SW25"
 			(at 218.44 147.32 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6701,7 +7728,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_2.00u_PCB"
 			(at 218.44 154.94 0)
 			(hide yes)
 			(show_name no)
@@ -6743,110 +7770,7 @@
 		(instances
 			(project "macropad"
 				(path "/fddb5834-d5ab-4409-9354-19753969cd28"
-					(reference "SW24")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D_45deg")
-		(at 223.52 160.02 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d94ce780-3cd0-4c73-9698-878c049d515f")
-		(property "Reference" "D34"
-			(at 223.52 152.4 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "D_45deg"
-			(at 223.52 154.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 223.52 160.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 223.52 160.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Diode, rotated by 45°"
-			(at 223.52 160.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 223.52 171.45 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 223.52 168.91 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "b136d77b-0816-43e1-b7a5-6c21d9cbda22")
-		)
-		(pin "1"
-			(uuid "b8b2c715-d556-4df4-a43d-b263c44086c2")
-		)
-		(instances
-			(project "macropad"
-				(path "/fddb5834-d5ab-4409-9354-19753969cd28"
-					(reference "D34")
+					(reference "SW25")
 					(unit 1)
 				)
 			)
@@ -6945,7 +7869,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e32e7fdc-2b94-4be1-9d61-ac60b4b33fc5")
-		(property "Reference" "SW23"
+		(property "Reference" "SW17"
 			(at 218.44 106.68 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7008,7 +7932,7 @@
 		(instances
 			(project "macropad"
 				(path "/fddb5834-d5ab-4409-9354-19753969cd28"
-					(reference "SW23")
+					(reference "SW17")
 					(unit 1)
 				)
 			)
@@ -7025,8 +7949,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "e412fab5-2ef0-4455-902a-299adedd81b2")
-		(property "Reference" "D36"
+		(uuid "e396194b-0275-45fe-8b21-fb97baa573c8")
+		(property "Reference" "D8"
 			(at 240.03 71.12 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7036,7 +7960,7 @@
 				)
 			)
 		)
-		(property "Value" "D_45deg"
+		(property "Value" "1N4148WS-7-F"
 			(at 240.03 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -7047,7 +7971,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 240.03 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -7058,7 +7982,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/1N4148WS_BAV16WS.pdf"
 			(at 240.03 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -7102,16 +8026,38 @@
 				)
 			)
 		)
+		(property "Digikey" "1N4148WS-FDICT-ND"
+			(at 240.03 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Diodes Incorporated"
+			(at 240.03 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
-			(uuid "1728624e-2221-4fea-b163-2b2d28f4d3ae")
+			(uuid "f37253cc-3a23-4bd2-9786-6ff42e91772d")
 		)
 		(pin "1"
-			(uuid "dd956d40-c82e-49b8-8d21-feeca2f8e410")
+			(uuid "4e31b22b-dece-4352-9690-d46f4a14568d")
 		)
 		(instances
 			(project "macropad"
 				(path "/fddb5834-d5ab-4409-9354-19753969cd28"
-					(reference "D36")
+					(reference "D8")
 					(unit 1)
 				)
 			)
@@ -7129,7 +8075,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ee69e403-6334-490f-8391-a9f8b61c0b51")
-		(property "Reference" "SW9"
+		(property "Reference" "SW5"
 			(at 267.97 45.72 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7192,7 +8138,7 @@
 		(instances
 			(project "macropad"
 				(path "/fddb5834-d5ab-4409-9354-19753969cd28"
-					(reference "SW9")
+					(reference "SW5")
 					(unit 1)
 				)
 			)
@@ -7210,7 +8156,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "eea627dc-dab1-4884-bf71-985c7878b6f7")
-		(property "Reference" "SW30"
+		(property "Reference" "SW11"
 			(at 201.93 86.36 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7273,7 +8219,7 @@
 		(instances
 			(project "macropad"
 				(path "/fddb5834-d5ab-4409-9354-19753969cd28"
-					(reference "SW30")
+					(reference "SW11")
 					(unit 1)
 				)
 			)
@@ -7291,7 +8237,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f38f49ac-1495-48d5-8c66-08f84affcfb0")
-		(property "Reference" "SW17"
+		(property "Reference" "SW13"
 			(at 234.95 86.36 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7354,110 +8300,7 @@
 		(instances
 			(project "macropad"
 				(path "/fddb5834-d5ab-4409-9354-19753969cd28"
-					(reference "SW17")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D_45deg")
-		(at 256.54 119.38 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f4cce35d-54da-41f4-b9c5-cfc4b0f00eb8")
-		(property "Reference" "D47"
-			(at 256.54 111.76 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "D_45deg"
-			(at 256.54 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 256.54 119.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 256.54 119.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Diode, rotated by 45°"
-			(at 256.54 119.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 256.54 130.81 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 256.54 128.27 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "cfae1b8a-ab7a-49e8-93f5-43217a040794")
-		)
-		(pin "1"
-			(uuid "03e61b85-3e0a-4084-afd2-89291ac5653f")
-		)
-		(instances
-			(project "macropad"
-				(path "/fddb5834-d5ab-4409-9354-19753969cd28"
-					(reference "D47")
+					(reference "SW13")
 					(unit 1)
 				)
 			)
@@ -7496,7 +8339,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_2.00u_Vertical_PCB"
 			(at 267.97 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -7539,6 +8382,131 @@
 			(project "macropad"
 				(path "/fddb5834-d5ab-4409-9354-19753969cd28"
 					(reference "SW15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_45deg")
+		(at 240.03 119.38 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fc15efff-ab65-41f2-880b-20566609eafc")
+		(property "Reference" "D18"
+			(at 240.03 111.76 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1N4148WS-7-F"
+			(at 240.03 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-323"
+			(at 240.03 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/1N4148WS_BAV16WS.pdf"
+			(at 240.03 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Diode, rotated by 45°"
+			(at 240.03 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 240.03 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 240.03 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey" "1N4148WS-FDICT-ND"
+			(at 240.03 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Diodes Incorporated"
+			(at 240.03 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "a45d9a7f-2d94-426c-a102-b70736653e5c")
+		)
+		(pin "1"
+			(uuid "97c622b3-a645-4bde-a41e-b1d9421dfb2e")
+		)
+		(instances
+			(project "macropad"
+				(path "/fddb5834-d5ab-4409-9354-19753969cd28"
+					(reference "D18")
 					(unit 1)
 				)
 			)
