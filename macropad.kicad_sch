@@ -395,8 +395,8 @@
 			(on_board yes)
 			(in_pos_files yes)
 			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "SW"
-				(at 0 6.604 0)
+			(property "Reference" "SW1"
+				(at 0 10.16 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
@@ -406,7 +406,7 @@
 				)
 			)
 			(property "Value" "RotaryEncoder_Switch"
-				(at 0 -6.604 0)
+				(at 0 7.62 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
@@ -415,7 +415,7 @@
 					)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "Library:PEC11S-929F-S0015"
 				(at -3.81 4.064 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -438,6 +438,28 @@
 				)
 			)
 			(property "Description" "Rotary encoder, dual channel, incremental quadrate outputs, with switch"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Digikey" "118-PEC11S-929F-S0015-ND"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Manufacturer" "Bourns"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -753,14 +775,14 @@
 				(pin passive line
 					(at 7.62 2.54 180)
 					(length 2.54)
-					(name "S1"
+					(name "D"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "S1"
+					(number "D"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -771,14 +793,14 @@
 				(pin passive line
 					(at 7.62 -2.54 180)
 					(length 2.54)
-					(name "S2"
+					(name "E"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "S2"
+					(number "E"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7346,7 +7368,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Library:PEC11S-929F-S0015"
 			(at 193.04 49.276 0)
 			(hide yes)
 			(show_name no)
@@ -7404,10 +7426,10 @@
 		(pin "C"
 			(uuid "309a298e-d754-4954-9bcc-ece4f6ddc698")
 		)
-		(pin "S1"
+		(pin "D"
 			(uuid "49121bc8-bcb4-4b56-b18f-93457e0995e2")
 		)
-		(pin "S2"
+		(pin "E"
 			(uuid "38c6040c-5169-4e74-87cc-81b3348eb8e2")
 		)
 		(pin "A"
