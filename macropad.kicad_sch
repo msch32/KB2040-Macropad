@@ -2465,6 +2465,16 @@
 	)
 	(wire
 		(pts
+			(xy 180.34 53.34) (xy 189.23 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "085162db-fc3a-494c-bb1f-8fddff12a872")
+	)
+	(wire
+		(pts
 			(xy 209.55 60.96) (xy 209.55 81.28)
 		)
 		(stroke
@@ -3152,6 +3162,16 @@
 			(type default)
 		)
 		(uuid "b0ac040c-aea1-4eb8-80d7-6dad2854591b")
+	)
+	(wire
+		(pts
+			(xy 180.34 60.96) (xy 180.34 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b629f460-cc5e-4083-b062-bba6ed699e79")
 	)
 	(wire
 		(pts
@@ -8656,6 +8676,84 @@
 			(project "macropad"
 				(path "/fddb5834-d5ab-4409-9354-19753969cd28"
 					(reference "D17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 180.34 60.96 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a57f28a2-d85d-409a-8b64-5db33dfe7648")
+		(property "Reference" "#PWR06"
+			(at 180.34 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 180.34 66.04 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 180.34 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 180.34 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 180.34 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "5188df85-6605-46b1-99ea-5c4a4fc75ced")
+		)
+		(instances
+			(project "macropad"
+				(path "/fddb5834-d5ab-4409-9354-19753969cd28"
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
