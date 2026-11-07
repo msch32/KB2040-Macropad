@@ -5000,10 +5000,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "454e1f62-1709-4183-ba6a-cc426d81244c")
+			(uuid "454e1f62-1709-4183-ba6a-cc426d81244d")
 		)
 		(pin "1"
-			(uuid "b031063c-5539-42c9-b8ed-35aeb293a810")
+			(uuid "b031063c-5539-42c9-b8ed-35aeb293a811")
 		)
 		(instances
 			(project "macropad"
@@ -5046,7 +5046,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Library:KB2040"
 			(at 52.07 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -6067,7 +6067,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 218.44 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -6969,10 +6969,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "454e1f62-1709-4183-ba6a-cc426d81244c")
+			(uuid "454e1f62-1709-4183-ba6a-cc426d81244e")
 		)
 		(pin "1"
-			(uuid "b031063c-5539-42c9-b8ed-35aeb293a810")
+			(uuid "b031063c-5539-42c9-b8ed-35aeb293a812")
 		)
 		(instances
 			(project "macropad"
@@ -7369,6 +7369,28 @@
 			)
 		)
 		(property "Description" "Rotary encoder, dual channel, incremental quadrate outputs, with switch"
+			(at 196.85 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey" "118-PEC11S-929F-S0015-ND"
+			(at 196.85 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Bourns"
 			(at 196.85 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -7926,10 +7948,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "454e1f62-1709-4183-ba6a-cc426d81244c")
+			(uuid "454e1f62-1709-4183-ba6a-cc426d81244f")
 		)
 		(pin "1"
-			(uuid "b031063c-5539-42c9-b8ed-35aeb293a810")
+			(uuid "b031063c-5539-42c9-b8ed-35aeb293a813")
 		)
 		(instances
 			(project "macropad"
