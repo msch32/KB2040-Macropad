@@ -2169,7 +2169,7 @@
 		(at 215.9 50.8)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "378729cb-78a7-4a26-b101-951a66786ae3")
+		(uuid "3190611c-0335-459e-8f88-c9e315000760")
 	)
 	(junction
 		(at 139.7 55.88)
@@ -2575,6 +2575,16 @@
 	)
 	(wire
 		(pts
+			(xy 215.9 50.8) (xy 232.41 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2289d5f7-3366-4a3f-90e9-afaf85a72ea5")
+	)
+	(wire
+		(pts
 			(xy 199.39 71.12) (xy 215.9 71.12)
 		)
 		(stroke
@@ -2632,16 +2642,6 @@
 			(type default)
 		)
 		(uuid "3de14d32-0458-41e3-84ad-385556634943")
-	)
-	(wire
-		(pts
-			(xy 204.47 50.8) (xy 215.9 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3de3ebd8-c4b3-4de3-b7ac-f7cfec9b971e")
 	)
 	(wire
 		(pts
@@ -3355,7 +3355,7 @@
 	)
 	(wire
 		(pts
-			(xy 215.9 50.8) (xy 232.41 50.8)
+			(xy 204.47 50.8) (xy 215.9 50.8)
 		)
 		(stroke
 			(width 0)
@@ -4024,6 +4024,87 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 218.44 53.34 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "049c53a3-0352-4b5c-ad8c-23f7760e3b30")
+		(property "Reference" "SW28"
+			(at 218.44 45.72 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_45deg"
+			(at 218.44 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+			(at 218.44 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 218.44 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 218.44 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "c04d9971-c584-4a34-b776-86c50786e3ad")
+		)
+		(pin "2"
+			(uuid "7683f548-7e97-490f-a23a-577adf9bc153")
+		)
+		(instances
+			(project "macropad"
+				(path "/fddb5834-d5ab-4409-9354-19753969cd28"
+					(reference "SW28")
+					(unit 1)
+				)
 			)
 		)
 	)
@@ -5490,10 +5571,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "bf36a908-5ddb-4fe6-a831-076a0c5b356e")
+			(uuid "bf36a908-5ddb-4fe6-a831-076a0c5b356f")
 		)
 		(pin "1"
-			(uuid "fbfad000-a1b1-4cdf-8dc2-9b71501b6742")
+			(uuid "fbfad000-a1b1-4cdf-8dc2-9b71501b6743")
 		)
 		(instances
 			(project "macropad"
@@ -7341,87 +7422,6 @@
 			(project "macropad"
 				(path "/fddb5834-d5ab-4409-9354-19753969cd28"
 					(reference "D7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push_45deg")
-		(at 218.44 53.34 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "719df856-1b2f-4049-9c62-f7de412b6df7")
-		(property "Reference" "SW2"
-			(at 218.44 45.72 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push_45deg"
-			(at 218.44 48.26 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-			(at 218.44 53.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 218.44 53.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 218.44 53.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "b2ecc13b-bf48-48b0-a70b-5ebb698959b8")
-		)
-		(pin "2"
-			(uuid "783ff3f3-b46b-4c2e-b36f-12022a283abe")
-		)
-		(instances
-			(project "macropad"
-				(path "/fddb5834-d5ab-4409-9354-19753969cd28"
-					(reference "SW2")
 					(unit 1)
 				)
 			)

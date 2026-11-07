@@ -4,7 +4,14 @@
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
-    "hidden_nets": [],
+    "hidden_nets": [
+      "ENC_B",
+      "GND",
+      "+3.3V",
+      "Net-(R2-Pad2)",
+      "ENC_A",
+      "Net-(R1-Pad2)"
+    ],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
