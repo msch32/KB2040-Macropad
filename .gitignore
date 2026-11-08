@@ -3,3 +3,4 @@ macropad-backups
 *auto_saved_files*
 *.lck
 *history*
+*.log
