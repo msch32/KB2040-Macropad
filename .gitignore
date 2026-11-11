@@ -4,3 +4,6 @@ macropad-backups
 *.lck
 *history*
 *.log
+
+# FreeCAD
+*.FCBak
