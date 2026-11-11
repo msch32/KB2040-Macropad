@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-13062022-064047";"";
+"REFERENCE";"PEC11S-9213K-S0015";"";
+"TraceParts.PartTitle";"PEC11S 12mm SMD encoder 15 pulses";"";
+"TraceParts.InstanceId";"90-13062022-0640472N3XX9WWY2MK673V115V3T3RA";"";
+"SUPPLIER";"BOURNS";"";
+"DESIGN";"PEC11S 12mm SMD encoder 15 pulses";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.3";"";
