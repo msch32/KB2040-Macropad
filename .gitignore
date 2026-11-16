@@ -7,3 +7,5 @@ macropad-backups
 
 # FreeCAD
 *.FCBak
+#   Step-Up
+*.kicad_pcb-bak
