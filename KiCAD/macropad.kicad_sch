@@ -4861,7 +4861,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Library:Cap_SMD_WE"
+		(property "Footprint" "Capacitor_SMD_Wurth:CP_Wurth_WCAP-ASLI-D6.3L5.5"
 			(at 87.63 73.66 0)
 			(hide yes)
 			(show_name no)
