@@ -7089,7 +7089,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_2.00u_Vertical_PCB"
+		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_2.00u_90deg"
 			(at 251.46 154.94 0)
 			(hide yes)
 			(show_name no)
@@ -10361,7 +10361,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_2.00u_PCB"
+		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_2.00u"
 			(at 218.44 154.94 0)
 			(hide yes)
 			(show_name no)
@@ -10972,7 +10972,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_2.00u_Vertical_PCB"
+		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_2.00u_90deg"
 			(at 267.97 93.98 0)
 			(hide yes)
 			(show_name no)
