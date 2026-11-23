@@ -2263,12 +2263,6 @@
 		(uuid "0581ed23-382f-4e00-a827-ac4ab21ec5e6")
 	)
 	(junction
-		(at 90.17 68.58)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "084d5300-6a7e-46aa-a82c-c5575dadb464")
-	)
-	(junction
 		(at 248.92 71.12)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2417,6 +2411,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7f49e97a-808f-4a71-8361-b1b1b5c566f3")
+	)
+	(junction
+		(at 87.63 71.12)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "81c04139-bcee-48d9-8d12-879f6c166abd")
 	)
 	(junction
 		(at 90.17 77.47)
@@ -2808,6 +2808,16 @@
 	)
 	(wire
 		(pts
+			(xy 100.33 71.12) (xy 100.33 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3a446606-5787-43d8-b1c0-5e37358114ec")
+	)
+	(wire
+		(pts
 			(xy 242.57 81.28) (xy 242.57 101.6)
 		)
 		(stroke
@@ -2945,16 +2955,6 @@
 			(type default)
 		)
 		(uuid "591bc726-a415-47a7-bce7-883bc7ac7df6")
-	)
-	(wire
-		(pts
-			(xy 97.79 68.58) (xy 90.17 68.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "59e1c192-7235-4343-aa96-9a4818462443")
 	)
 	(wire
 		(pts
@@ -3098,16 +3098,6 @@
 	)
 	(wire
 		(pts
-			(xy 97.79 67.31) (xy 97.79 68.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6f01b525-3df0-4b1a-9926-772fc68bbc69")
-	)
-	(wire
-		(pts
 			(xy 248.92 71.12) (xy 265.43 71.12)
 		)
 		(stroke
@@ -3245,6 +3235,16 @@
 			(type default)
 		)
 		(uuid "990d5c42-9358-4dbd-8bc7-fe02e1c3ab31")
+	)
+	(wire
+		(pts
+			(xy 87.63 71.12) (xy 100.33 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9af8b21c-c6ef-4d02-a5e6-163cdbc3512a")
 	)
 	(wire
 		(pts
@@ -9637,7 +9637,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 97.79 67.31 0)
+		(at 100.33 64.77 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9648,7 +9648,7 @@
 		(fields_autoplaced yes)
 		(uuid "c9a08fc4-05f4-424e-be73-3000ad86542e")
 		(property "Reference" "#PWR07"
-			(at 97.79 71.12 0)
+			(at 100.33 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9659,7 +9659,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 97.79 62.23 0)
+			(at 100.33 59.69 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9669,7 +9669,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 97.79 67.31 0)
+			(at 100.33 64.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9680,7 +9680,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 97.79 67.31 0)
+			(at 100.33 64.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9691,7 +9691,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 97.79 67.31 0)
+			(at 100.33 64.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
