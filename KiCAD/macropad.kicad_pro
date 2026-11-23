@@ -699,13 +699,17 @@
         "uuid": "fddb5834-d5ab-4409-9354-19753969cd28"
       }
     ],
-    "used_designators": "#PWR1-6,C1-4,D1-77,R1-4,SW1-57,U1-2",
+    "used_designators": "#PWR1-71,C1-35,D1-77,R1-4,SW1-57,U1-2",
     "variants": []
   },
   "sheets": [
     [
       "fddb5834-d5ab-4409-9354-19753969cd28",
       "macropad"
+    ],
+    [
+      "f54d6261-7006-4ee7-bf32-1357350644e9",
+      "ws2812-circuit"
     ]
   ],
   "text_variables": {},
