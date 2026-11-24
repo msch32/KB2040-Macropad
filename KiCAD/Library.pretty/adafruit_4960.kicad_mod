@@ -1,0 +1,253 @@
+(footprint "adafruit_4960"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "footprint_template StepUp generated footprint")
+	(property "Reference" "REF**"
+		(at 0 -2.5 0)
+		(layer "F.SilkS")
+		(uuid "6bff62cf-59ae-4339-89e5-580fbbf5f4ab")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Value "
+		(at 11 9 0)
+		(layer "F.SilkS")
+		(uuid "c9591aa9-f3f4-4e2c-bcb4-92e5ef2f1ba0")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.12)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "395ef153-8df8-453c-84b2-5f31b4ab6d3b")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bc298baa-ece1-4bb3-9549-caa304778d74")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_circle
+		(center -4.2 0.75)
+		(end -4.45 0.75)
+		(stroke
+			(width 0.16)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "d2e3d649-e6be-4022-9ffb-cf89df6d8213")
+	)
+	(fp_line
+		(start -1.6 -1.4)
+		(end -1.6 1.4)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "6bb49662-dd5e-45a7-b959-0636613bf6f7")
+	)
+	(fp_line
+		(start -1.6 1.4)
+		(end 1.6 1.4)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "f81022e0-369b-4024-bd83-23007b1d295f")
+	)
+	(fp_line
+		(start 1.6 -1.4)
+		(end -1.6 -1.4)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "ada37219-7ed0-47db-9e8b-127ab6c2436d")
+	)
+	(fp_line
+		(start 1.6 1.4)
+		(end 1.6 -1.4)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "52c71ba0-7cde-4829-917c-a9aae70c156f")
+	)
+	(fp_line
+		(start -2.94 -1.41)
+		(end -2.94 1.41)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "e83b51b6-15d3-466d-82e1-8cebfd50c6b3")
+	)
+	(fp_line
+		(start -2.94 1.41)
+		(end 2.94 1.41)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "250b64e6-4101-4d5b-b0c0-33357928b043")
+	)
+	(fp_line
+		(start 2.94 -1.41)
+		(end -2.94 -1.41)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "3cc24418-dad8-4451-b99c-1c9110f6e9a3")
+	)
+	(fp_line
+		(start 2.94 1.41)
+		(end 2.94 -1.41)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "0c20388a-f8e8-4edb-9d20-b714f44b04fa")
+	)
+	(fp_line
+		(start -1.575 -1.375)
+		(end -1.575 1.375)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c5b9ef03-4f40-4f48-86ec-0544cb895003")
+	)
+	(fp_line
+		(start -1.575 0.875)
+		(end -1.075 1.375)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5216ab9a-7e07-46f6-8420-d46d99b0af88")
+	)
+	(fp_line
+		(start -1.575 1.375)
+		(end 1.575 1.375)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e0235f37-6bea-4954-b252-4504de0ef03c")
+	)
+	(fp_line
+		(start 1.575 -1.375)
+		(end -1.575 -1.375)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f1a265a9-b2c1-451c-9efb-dffd16c8f9e1")
+	)
+	(fp_line
+		(start 1.575 1.375)
+		(end 1.575 -1.375)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d94aba1c-1e11-43ad-bbe6-007f8f7dc9f0")
+	)
+	(fp_text user "EDIT PAD NUMBERS"
+		(at 11 8 0)
+		(layer "Cmts.User")
+		(uuid "a1e1b9cb-1fea-4a47-8a04-487b68c1ad84")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(italic yes)
+			)
+		)
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 -4 0)
+		(layer "F.Fab")
+		(uuid "00818c6f-623e-4c84-a62f-03b5bfe34aa8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -2.5 0.75)
+		(size 1.8 0.82)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "d4395a90-743f-48ab-829c-cc70c3494586")
+	)
+	(pad "2" smd rect
+		(at 2.5 0.75)
+		(size 1.8 0.82)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "e69b19e1-713d-4b0a-85c7-893599070962")
+	)
+	(pad "3" smd rect
+		(at 2.5 -0.75)
+		(size 1.8 0.82)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "06446c16-ce0a-4d85-aa4c-de30585817db")
+	)
+	(pad "4" smd rect
+		(at -2.5 -0.75)
+		(size 1.8 0.82)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "b3658242-7d1a-4f22-b90e-c2c9f554f1d7")
+	)
+	(embedded_fonts no)
+	(model "/home/mirko/Documents/#04_Prototyping-Electronics/10_Projekte/KB2040-Macropad/KiCAD/Library.pretty/footprint_template.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
