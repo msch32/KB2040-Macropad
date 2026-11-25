@@ -3679,7 +3679,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "Library:adafruit_4960"
 			(at 39.37 168.91 0)
 			(hide yes)
 			(show_name no)
@@ -4395,7 +4395,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "Library:adafruit_4960"
 			(at 191.77 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -4561,7 +4561,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "Library:adafruit_4960"
 			(at 191.77 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -4727,7 +4727,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "Library:adafruit_4960"
 			(at 69.85 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -5537,7 +5537,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "Library:adafruit_4960"
 			(at 130.81 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -5703,7 +5703,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "Library:adafruit_4960"
 			(at 222.25 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -6513,7 +6513,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "Library:adafruit_4960"
 			(at 222.25 127 0)
 			(hide yes)
 			(show_name no)
@@ -6839,7 +6839,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "Library:adafruit_4960"
 			(at 130.81 127 0)
 			(hide yes)
 			(show_name no)
@@ -7169,7 +7169,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "Library:adafruit_4960"
 			(at 161.29 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -7569,7 +7569,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "Library:adafruit_4960"
 			(at 39.37 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -7969,7 +7969,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "Library:adafruit_4960"
 			(at 39.37 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -8299,7 +8299,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "Library:adafruit_4960"
 			(at 191.77 127 0)
 			(hide yes)
 			(show_name no)
@@ -8547,7 +8547,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "Library:adafruit_4960"
 			(at 252.73 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -8635,7 +8635,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "Library:adafruit_4960"
 			(at 69.85 168.91 0)
 			(hide yes)
 			(show_name no)
@@ -8723,7 +8723,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "Library:adafruit_4960"
 			(at 222.25 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -8811,7 +8811,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "Library:adafruit_4960"
 			(at 130.81 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -8899,7 +8899,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "Library:adafruit_4960"
 			(at 69.85 127 0)
 			(hide yes)
 			(show_name no)
@@ -9221,7 +9221,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "Library:adafruit_4960"
 			(at 252.73 127 0)
 			(hide yes)
 			(show_name no)
@@ -9547,7 +9547,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "Library:adafruit_4960"
 			(at 100.33 127 0)
 			(hide yes)
 			(show_name no)
@@ -9635,7 +9635,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "Library:adafruit_4960"
 			(at 161.29 127 0)
 			(hide yes)
 			(show_name no)
@@ -9723,7 +9723,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "Library:adafruit_4960"
 			(at 161.29 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -9889,7 +9889,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "Library:adafruit_4960"
 			(at 252.73 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -9977,7 +9977,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "Library:adafruit_4960"
 			(at 69.85 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -10861,7 +10861,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "Library:adafruit_4960"
 			(at 100.33 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -11109,7 +11109,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "Library:adafruit_4960"
 			(at 39.37 127 0)
 			(hide yes)
 			(show_name no)
@@ -11669,7 +11669,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "Library:adafruit_4960"
 			(at 100.33 44.45 0)
 			(hide yes)
 			(show_name no)
